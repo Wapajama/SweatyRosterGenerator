@@ -8,7 +8,6 @@ using Google.Apis.Services;
 using Google.Apis.Sheets.v4;
 using Google.Apis.Auth.OAuth2;
 using System.IO;
-using System.Text;
 
 
 namespace SweatyRosterGenerator
@@ -93,15 +92,45 @@ namespace SweatyRosterGenerator
         static readonly string ApplicationName = "Sweaty Roster Generator";
         static readonly string SpreadsheetId = "1E6JfTNaelYbNvb-YRSeZ23DTA_ZqOQ7YDEpdQAI5Km8";
         static readonly string sheet = "Participants - Roles";
-        static readonly int maxSpaces = 3;
+        
         // static Dictionary<string, double> finalNslMap = new Dictionary<string, double>();
         static SheetsService service;
+
+        // REMOVE THIS
+        static bool IsWTHPlayer(string line)
+        {
+            if (line.Contains("WTH"))
+            {
+                return true;
+            }
+            return false;
+        }
+
         static void Main(string[] args)
         {
+            NSLGenerator nslGenerator = new NSLGenerator();
+
             Participants = new List<WTHPlayer>();
             RoleProficiencies = new Dictionary<string, RoleProficiencyEntry>();
             ReadEntries();
-            ReadScoreboards();
+            // ReadScoreboards();
+
+            int derp = 0;
+            foreach (var item in nslGenerator.FinalNslMap)
+            {
+                WTHPlayer player = new WTHPlayer { Name = item.Key, Nsl = item.Value, Role = GameRole.infantryMan };
+
+                if (IsWTHPlayer(player.Name))
+                {
+                    derp++;
+                    Participants.Add(player);
+                }
+                if (derp >= 80)
+                {
+                    break;
+                }
+            }
+
             CreateTeams();
             // TODO: make sure to even out squads to 5-6 members each
             // i.e no fewer than 4 squadmates (5 including squadlead)
@@ -313,6 +342,7 @@ namespace SweatyRosterGenerator
                 Console.WriteLine("\n");
             }
         }
+
         //struct RankedPlayer
         //{
         //    public int rank;
@@ -398,145 +428,6 @@ namespace SweatyRosterGenerator
         //    }
         //}
 
-        static int GetRank(string line)
-        {
-            // 1. store rank
-            int whitespacePos = -1;
-            for (int i = 1; i < 5; i++)
-            {
-                if (line[i] == ' ')
-                {
-                    whitespacePos = i;
-                    break;
-                }
-            }
-
-            int rank = -1;
-
-            try
-            {
-                rank = int.Parse(line.Substring(1, whitespacePos - 1));
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
-            return rank;
-        }
-
-        static string GetName(string line, out int startIndex)
-        {
-            string name = string.Empty;
-
-            int firstIndexName = 0;
-
-            // First scan past the rank
-            while (line[firstIndexName] != ' ')
-            {
-                ++firstIndexName;
-            }
-            // Then scan past the spaces in between the rank and name
-            while (line[firstIndexName] == ' ')
-            {
-                ++firstIndexName;
-            }
-
-
-            int lastIndexName = firstIndexName;
-            int spaceCounter = 0;
-            // if there are too many spaces, it means we have passed the name and are on the way to the next value
-            
-            while (spaceCounter < maxSpaces)
-            {
-                if (line[lastIndexName] == ' ')
-                {
-                    ++spaceCounter;
-                }
-                else
-                {
-                    spaceCounter = 0;
-                }
-                ++lastIndexName;
-            }
-            lastIndexName -= maxSpaces;
-            name = line.Substring(firstIndexName, lastIndexName - firstIndexName);
-            startIndex = lastIndexName;
-            return name;
-        }
-
-        static int GetKills(string line, int startIndex)
-        {
-            int kills = 0;
-
-            int killsFirstIndex = startIndex;
-            while (line[killsFirstIndex] == ' ')
-            {
-                ++killsFirstIndex;
-            }
-            int killsLastIndex = killsFirstIndex;
-            while (line[killsLastIndex] != ' ')
-            {
-                ++killsLastIndex;
-            }
-
-            try
-            {
-                kills = int.Parse(line.Substring(killsFirstIndex, killsLastIndex - killsFirstIndex));
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
-            return kills;
-        }
-
-        static int GetMinutesPlayed(string line)
-        {
-            int lineLength = line.Length;
-
-            int hours = 0;
-            int.TryParse(line.Substring(lineLength - 7, 1), out hours);
-
-            int minutes = 0;
-            int.TryParse(line.Substring(lineLength - 5, 2), out minutes);
-
-            return hours * 60 + minutes;
-        }
-
-        static double GenerateNSL(RankedPlayer player, int maxPlayers)
-        {
-            // Kills Per hour
-            double hours = ((double)player.minutesPlayed) / 60.0;
-            double kph = player.kills/ hours;
-            double nsl = ((maxPlayers + 1) - player.rank) - (100 - maxPlayers) + kph;
-            return kph;
-        }
-
-        static void CreateRandomParticipants()
-        {
-
-        }
-
-        static readonly string[] forbiddenWeapons = { "Tank/Arty", "155MM HOWITZER"};
-        static bool PlayedTankOrArty(string line)
-        {
-            foreach (string weapon in forbiddenWeapons)
-            {
-                if (line.Contains(weapon))
-                {
-                    return true;
-                }
-            }
-            return false;
-        }
-
-        static bool IsWTHPlayer(string line)
-        {
-            if (line.Contains("WTH"))
-            {
-                return true;
-            }
-            return false;
-        }
+        
     }
 }
