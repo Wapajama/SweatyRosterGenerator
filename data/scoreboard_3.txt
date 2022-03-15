@@ -1,0 +1,39 @@
+RANK   NAME                      KILLS  DEATHS K/D    TKS    STREAK WEAPON           VICTIM                    NEMESIS                   PLAYTIME
+#1     (WTH) ReformedGamer       68     36     1.89   1      9      STG44(52)        (WTH) Rydelex(7)          (WTH) Oskar(6)            01:30:53
+#2     ✪ (WTH) Beard             66     4      16.5   11     44     Tank/Arty(64)    (WTH)The_Bertus(6)        [WTH] Whiskу 별별 ♥(2)      01:31:41
+#3     (WTH) Curious George      56     48     1.17   2      9      STG44(55)        (WTH) Toni(7)             (WTH) Oskar(9)            01:30:35
+#4     (WTHr) dl_                54     32     1.69   0      6      Garand(53)       (WTH) Jestt600(10)        (WTH) Wild Bill(5)        01:31:30
+#5     (WTH) Oskar               51     36     1.42   0      6      Garand(49)       (WTH) Curious George(9)   (WTH) Curious George(7)   01:31:55
+#6     (WTH) Jockey "Joky"       49     34     1.44   1      7      Thompson(36)     (WTH) CJT ♢(5)            (WTH) Curious George(5)   01:30:36
+#7     (WTH) Rydelex             48     35     1.37   0      12     M1918A2_BAR(47)  🆁 (WTH) Chronic(8)        (WTH) ReformedGamer(7)    01:31:35
+#8     (WTH)The_Bertus           43     30     1.43   0      7      Kar98(14)        (WTH) GodFella(4)         ✪ (WTH) Beard(6)          01:30:38
+#9     (WTHr) Harris             42     38     1.11   0      7      M1918A2_BAR(40)  (WTH) Jestt600(6)         (WTH) Flash_AUT(4)        01:32:01
+#10    (WTH) pizzawithaW         41     48     0.85   0      6      M1918A2_BAR(39)  (WTH) Wild Bill(5)        [WTH] Shukle(5)           01:30:35
+#11    (WTH) Wild Bill           40     45     0.89   0      5      G43(39)          (WTHr) dl_(5)             (WTHr) dl_(7)             01:32:01
+#12    (WTH) MEvans              39     32     1.22   0      12     STG44(37)        (WTH) Rydelex(5)          (WTH) TheAmenai(4)        01:32:01
+#13    (WTH) Xcessive            38     44     0.86   0      4      G43(13)          (WTH) pizzawithaW(4)      (WTHr) dl_(9)             01:29:49
+#14    (WTH) GodFella            38     45     0.84   0      5      M1918A2_BAR(24)  (WTH) Jestt600(6)         (WTH) Jestt600(7)         01:32:01
+#15    (WTH) Jestt600            38     53     0.72   1      5      G43(32)          (WTH) GodFella(7)         (WTHr) dl_(10)            01:30:56
+#16    (WTH) Spoof               37     41     0.9    3      7      MP40(27)         (WTH) Gates(6)            (WTH) Rydelex(5)          01:30:31
+#17    🆁(WTH)Capt Benfield       35     32     1.09   0      9      Garand(35)       (WTH) Flash_AUT(5)        (WTH) ReformedGamer(6)    01:32:01
+#18    🆁 (WTH) Chronic           34     36     0.94   1      6      MP40(21)         (WTH)LtSchaffer75(5)      (WTH) Rydelex(8)          01:32:01
+#19    (WTH) BioHaXard           33     23     1.43   0      8      G43(22)          (WTH) Rydelex(5)          ✪ (WTH) Beard(5)          01:31:12
+#20    (WTH) Gates               33     28     1.18   1      4      Garand(29)       (WTH) Flash_AUT(7)        (WTH) Spoof(6)            01:32:01
+#21    (WTH) Flash_AUT           33     33     1.0    2      4      MP40(18)         (WTHr) Harris(4)          (WTH) Gates(7)            01:30:38
+#22    [WTH] Shukle              32     42     0.76   1      8      MP40(25)         (WTH) pizzawithaW(5)      (WTH) Attila(6)           01:30:09
+#23    (WTH) Attila              28     24     1.17   0      6      Garand(28)       [WTH] Shukle(6)           (WTH) ReformedGamer(4)    01:32:01
+#24    (WTH) Nekol               28     40     0.7    1      4      STG44(23)        (WTH) GodFella(5)         (WTHr) dl_(5)             00:00:16
+#25    (WTH) BatArme             22     28     0.79   3      4      Thompson(15)     (WTH) Spoof(4)            (WTH) ReformedGamer(6)    01:31:54
+#26    [WTH] Whiskу 별별 ♥         21     21     1.0    0      8      Garand(8)        [WTH] Shukle(2)           (WTH) ReformedGamer(5)    02:50:29
+#27    (WTH) fizkkk              21     28     0.75   1      4      Thompson(7)      (WTH) Xcessive(3)         (WTH) MEvans(4)           01:00:26
+#28    (WTH) CJT ♢               20     31     0.65   3      4      G43(13)          (WTH) GodFella(3)         (WTH) Jockey "Joky" (5)   03:00:18
+#29    (WTH) TheAmenai           18     27     0.67   0      3      Garand(7)        (WTH) MEvans(4)           ✪ (WTH) Beard(4)          01:32:01
+#30    (WTH) One Vespidy         18     38     0.47   1      3      MP40(10)         (WTH) Toni(3)             🆁(WTH)Capt Benfield(4)    01:32:01
+#31    (WTH) BuschBrunzer        18     41     0.44   0      3      G43(13)          (WTH) Oskar(3)            (WTHr) dl_(5)             01:32:01
+#32    🧿 (WTH) Fuzz              17     30     0.57   0      4      Thompson(16)     (WTH) BuschBrunzer(3)     (WTH) Xcessive(4)         01:32:01
+#33    (WTH) Kenty               16     35     0.46   0      2      Thompson(8)      [WTH] Shukle(4)           (WTH)The_Bertus(3)        01:30:44
+#34    (WTH)LtSchaffer75         15     38     0.39   0      2      Garand(12)       🆁 (WTH) Chronic(4)        (WTH) ReformedGamer(6)    01:30:36
+#35    (WTH) Toni                10     30     0.33   0      2      Garand(6)        (WTH) CJT ♢(2)            (WTH) Curious George(7)   01:30:49
+#36    (WTH)Khan Levski          9      29     0.31   0      3      Thompson(5)      (WTH) Spoof(2)            (WTH) Spoof(5)            01:30:59
+#37    (WTH) RipShank            1      5      0.2    1      1      Tank/Arty(1)     (WTH) Xcessive(1)         [WTH] Whiskу 별별 ♥(2)      01:29:48
+#38    🅐 (WTH) Hakubus           0      4      0.0    0      0      None(0)          None(0)                   [WTH] Whiskу 별별 ♥(2)      01:30:52

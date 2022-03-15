@@ -1,0 +1,147 @@
+RANK   NAME                      KILLS  DEATHS K/D    TKS    STREAK WEAPON           VICTIM                    NEMESIS                   PLAYTIME
+#1     (WTH) Sych                139    0      0.0    15     139    Tank/Arty(139)   (WTH)Ragga(8)             None(0)                   01:31:45
+#2     🆁 (WTH) Frazzle           129    1      129.0  7      85     Tank/Arty(126)   🧿 (WTH) Fuzz(12)          gmomchilov(1)             01:31:01
+#3     Gecko*                    81     51     1.59   0      12     G43(74)          (WTH) Curious George(9)   (WTH) Sych(7)             01:30:26
+#4     (WTH) dp                  80     24     3.33   0      11     M1903(78)        (WTH) Filtertip(7)        (WTH)Locknah☠(4)          01:30:25
+#5     (WTH) Duba                73     33     2.21   0      12     Garand(60)       proskillzpebot(6)         (WTH) Trotche(2)          01:31:09
+#6     (WTH) Zota                70     55     1.27   0      6      Garand(50)       Zauberstab(5)             Gecko*(6)                 01:31:45
+#7     (WTH) Oskar               69     46     1.5    0      12     G43(37)          (WTH) fizkkk(6)           (wth) heidi(7)            01:31:45
+#8     (WTH) ReformedGamer       65     41     1.59   0      10     G43(45)          (WTH)Sup(5)               (WTH) Sych(6)             01:31:45
+#9     (WTHr) Harris             64     45     1.42   0      8      M1918A2_BAR(59)  (WTH) Oskar(6)            (WTH) Blank(7)            01:31:45
+#10    (WTH) fizkkk              63     47     1.34   0      8      Garand(53)       Dekaron [FOX HOUND](5)    (WTH) Oskar(6)            01:31:45
+#11    (WTH) Spoof               62     40     1.55   0      7      G43(37)          (WTH)Sup(9)               [WTH] Eurynomous(4)       01:31:45
+#12    (WTH) Jockey "Joky"       58     30     1.93   0      9      G43(56)          [WTH] Eurynomous(6)       (WTH) pizzawithaW(6)      01:30:29
+#13    (WTH) Trotche             56     42     1.33   0      9      G43(56)          Jonmyle(6)                Jonmyle(5)                01:31:45
+#14    (WTHr) dl_                55     18     3.06   0      17     Kar98_Sniper(47) (WTH) Pumpkin™(8)         (WTH) BioHaXard(3)        01:31:45
+#15    (WTH) Blank               53     32     1.66   0      9      G43(50)          (WTHr) Harris(7)          (WTH) Abusify(4)          01:31:45
+#16    (WTH)Locknah☠             49     33     1.48   0      5      STG44(49)        (wth) heidi(4)            (WTH) dp(3)               01:30:44
+#17    (WTH) spůůk©              48     11     4.36   1      26     Tank/Arty(47)    (WTH) Curious George(4)   (WTH) kabour30(4)         01:30:53
+#18    (wth) heidi               46     63     0.73   2      4      Garand(45)       (WTH) Oskar(7)            🆁 (WTH) Frazzle(7)        01:31:45
+#19    (WTH) tørfisk             45     22     2.05   0      7      M1918A2_BAR(31)  (WTH) Jestt600(5)         (WTH) Oskar(3)            01:09:09
+#20    (WTH) Wild Bill           45     43     1.05   2      7      Garand(41)       (WTH) Epok(4)             Gecko*(5)                 01:31:45
+#21    (WTH) pizzawithaW         43     47     0.91   2      6      M1918A2_BAR(37)  (WTH) Jockey "Joky" (6)   Gecko*(7)                 01:30:27
+#22    (WTH) Abusify             40     25     1.6    0      7      M1903(39)        (WTH) Blank(4)            proskillzpebot(3)         01:30:43
+#23    (WTH) MARIO               39     6      6.5    0      19     Tank/Arty(39)    (WTH) Cap'n Ducky(4)      (WTH) spůůk©(3)           01:30:48
+#24    🆁 (WTH) Chronic           39     43     0.91   0      5      Garand(33)       Gecko*(3)                 Gecko*(4)                 01:31:45
+#25    (WTH) Curious George      37     46     0.8    0      6      Garand(32)       (WTH) Spoof(4)            Gecko*(9)                 01:31:45
+#26    (WTH) Gates               36     20     1.8    0      7      G43(33)          (WTH)KnownConnection(5)   (WTHr) Harris(3)          01:31:45
+#27    (WTH) Flash_AUT           36     31     1.16   0      6      Garand(25)       (WTH) Pigbin(3)           🆁 (WTH) Frazzle(4)        01:30:45
+#28    (WTH) Nekol               35     29     1.21   0      6      MG42(21)         (WTH) fizkkk(4)           (WTH) Sych(6)             01:20:58
+#29    (WTH) MEvans              33     34     0.97   1      11     Garand(23)       (WTH) ReformedGamer(5)    Gecko*(6)                 01:31:45
+#30    [WTH] Eurynomous          31     41     0.76   0      8      M1919(30)        (WTH) Spoof(4)            (WTH) Jockey "Joky" (6)   01:31:45
+#31    ✪ (WTH) Beard             30     2      15.0   1      28     Tank/Arty(28)    (WTH)LtSchaffer75(3)      (WTH) spůůk©(2)           01:21:12
+#32    (WTH) imolol              30     28     1.07   0      6      Thompson(27)     (WTH) wobbegong21(3)      (WTH) Crooked(3)          01:30:28
+#33    🆂 (WTH) Wazzu72           29     41     0.71   1      5      G43(25)          (WTH) Zota(3)             [WTH] Eurynomous(4)       01:30:40
+#34    ☯ WTH Skytec | Dakur      28     21     1.33   0      7      Kar98_Sniper(25) Eiríkr(3)                 (WTH) GodFella(3)         01:31:02
+#35    (WTH) kabour30            27     6      4.5    0      12     Tank/Arty(27)    (WTH) spůůk©(4)           (WTH) spůůk©(3)           01:31:21
+#36    (WTHr) Rydelex            27     7      3.86   3      7      Tank/Arty(23)    Cuz power [Qc](4)         (WTH) Flash_AUT(1)        01:31:45
+#37    Bartone                   27     29     0.93   0      7      Garand(27)       proskillzpebot(3)         🆁 (WTH) Frazzle(2)        03:00:28
+#38    (WTH) Attila              26     36     0.72   0      3      G43(20)          (WTH) Wild Bill(3)        (WTH) Sych(8)             01:31:45
+#39    Jimmers92                 25     19     1.32   0      10     MG42(22)         (WTH) fizkkk(4)           (WTH) Zota(4)             02:31:21
+#40    (WTH) Crooked             25     39     0.64   0      5      G43(21)          (WTH) imolol(3)           (WTH) dp(5)               01:31:35
+#41    (WTH) BuschBrunzer        24     25     0.96   0      4      MP40(22)         (WTHr) Harris(3)          (WTH) fizkkk(5)           01:31:45
+#42    (WTH)KnownConnection      24     28     0.86   0      7      Garand(24)       (WTH) Toni(3)             (WTH) Gates(5)            01:30:37
+#43    (WTH) wobbegong21         24     33     0.73   0      4      G43(23)          (WTH) Zota(3)             (WTHr) Harris(5)          01:31:45
+#44    (WTHr) HouseGangster      23     8      2.88   1      7      Tank/Arty(22)    Zauberstab(2)             🆂 (WTH) Wazzu72(1)        01:31:18
+#45    Dekaron [FOX HOUND]       23     33     0.7    0      9      G43(23)          Patrick8dk061(3)          (WTH) fizkkk(5)           01:31:45
+#46    proskillzpebot            22     39     0.56   0      3      MP40(15)         (WTH) Abusify(3)          (WTH) Duba(6)             01:31:36
+#47    (WTH)Ragga                21     29     0.72   0      5      G43(21)          RV(2)                     (WTH) Sych(8)             01:31:45
+#48    (WTH) Jestt600            21     41     0.51   0      3      G43(20)          🆁 (WTH) Chronic(3)        (WTH) tørfisk(5)          01:31:45
+#49    (WTH) Narsil              20     24     0.83   0      4      Garand(12)       [WTH] Nautilus(3)         (WTH) Gates(3)            01:30:33
+#50    Jonmyle                   20     27     0.74   0      4      Garand(20)       (WTH) Trotche(5)          (WTH) Trotche(6)          02:54:49
+#51    [WTH] Nautilus            20     35     0.57   0      3      STG44(12)        (WTH) imolol(2)           (WTH) Sych(4)             01:31:45
+#52    [WTH]FlashBlack           19     8      2.38   0      7      Tank/Arty(19)    (WTH) TheAmenai(2)        (WTH) kabour30(3)         01:30:32
+#53    🆁(WTH)Capt Benfield       19     29     0.66   0      6      Garand(19)       Gecko*(4)                 Gecko*(4)                 01:31:45
+#54    (WTH) GodFella            19     34     0.56   0      4      Thompson(19)     (WTH) wobbegong21(3)      (WTH) Oskar(4)            01:31:45
+#55    🆂 (WTH) JagdGG            19     50     0.38   0      4      STG44(18)        (WTH) Wild Bill(3)        (WTH) dp(4)               01:29:44
+#56    (WTH) Wapajama            18     27     0.67   0      5      M1919(17)        🆂 (WTH) Wazzu72(3)        🆁 (WTH) Frazzle(5)        01:29:00
+#57    (WTH) Pigbin              18     28     0.64   0      3      MP40(10)         (WTH) Flash_AUT(3)        (WTH) Sych(6)             01:30:39
+#58    [WTH] Shukle              17     40     0.42   0      2      G43(11)          (WTH) Wild Bill(2)        (WTH) dp(6)               01:31:45
+#59    Zauberstab                17     41     0.41   0      3      Kar98(12)        (WTH) Wild Bill(2)        (WTH) Zota(5)             01:30:26
+#60    (WTH) Cap'n Ducky         17     49     0.35   0      3      G43(16)          [WTH] Eurynomous(5)       (WTH) Sych(5)             01:31:45
+#61    🧿 (WTH) Fuzz              16     36     0.44   0      2      Garand(16)       (WTH) Cap'n Ducky(2)      🆁 (WTH) Frazzle(12)       01:30:35
+#62    (WTH) BioHaXard           15     21     0.71   0      3      Garand(15)       (WTHr) dl_(3)             (WTHr) dl_(5)             01:30:34
+#63    (WTH)Khan Levski          15     22     0.68   0      2      M1919(15)        Fluffy Rottweiler(2)      (WTHr) dl_(6)             01:31:45
+#64    (WTH)Sup                  15     45     0.33   1      4      M1_Carbine(15)   (WTH) Pigbin(3)           (WTH) Spoof(9)            01:31:45
+#65    Nestaaa27                 14     12     1.17   0      6      Garand(13)       (WTH) Blank(1)            (WTH) Jockey "Joky" (2)   00:52:49
+#66    Dúne                      14     13     1.08   0      5      Garand(14)       Dekaron [FOX HOUND](2)    (WTH) Oskar(2)            00:37:15
+#67    (WTH) Marvanorum          14     23     0.61   0      3      MG42(14)         (wth) heidi(3)            🆁 (WTH) Chronic(2)        01:30:43
+#68    (WTH) CJT ♢               13     9      1.44   0      6      Tank/Arty(13)    Dúne(2)                   (WTH) kabour30(3)         01:31:45
+#69    Cinnamon Boy              13     13     1.0    0      4      MG42(13)         (wth) heidi(2)            (WTH) Zota(3)             01:58:28
+#70    (WTH) Skornogr4phy        13     30     0.43   0      2      Thompson(8)      (WTH) One Vespidy(2)      🆁 (WTH) Frazzle(7)        01:30:32
+#71    (WTH) One Vespidy         13     31     0.42   0      3      Kar98(13)        (WTH) Pumpkin™(3)         RV(5)                     01:31:45
+#72    gmomchilov                12     22     0.55   0      10     Garand(12)       (WTH)LtSchaffer75(2)      (WTHr) Rydelex(2)         03:00:59
+#73    (WTH) Epok                12     23     0.52   1      4      Kar98(10)        (WTH)Omar.n(2)            (WTH) Wild Bill(4)        00:57:24
+#74    (WTH)albertalting         12     27     0.44   1      2      Thompson(6)      (WTH) One Vespidy(4)      (WTH) ReformedGamer(4)    01:31:45
+#75    FireAbove                 11     0      0.0    0      11     Tank/Arty(11)    (WTH) Filtertip(2)        None(0)                   00:13:18
+#76    (WTH) Filtertip           11     47     0.23   1      3      STG44(8)         (wth) heidi(2)            (WTH) Sych(8)             01:31:45
+#77    Tappy Tanker              10     13     0.77   1      4      Garand(10)       🆂 (WTH) JagdGG(2)         (WTH)Locknah☠(2)          02:19:42
+#78    (WTH) Pumpkin™            10     27     0.37   0      3      Garand(8)        proskillzpebot(2)         (WTHr) dl_(8)             01:30:44
+#79    (WTH) Toni                10     29     0.34   0      3      G43(4)           (WTH)Omar.n(2)            (WTH) Sych(5)             01:31:03
+#80    (WTHr) deani              10     30     0.33   0      5      Thompson(9)      (WTH) Trotche(2)          🆁 (WTH) Frazzle(8)        01:30:32
+#81    Patrick8dk061             9      10     0.9    0      4      Garand(5)        Dekaron [FOX HOUND](2)    Dekaron [FOX HOUND](3)    01:59:24
+#82    (WTH)Omar.n               9      36     0.25   0      3      M1_Carbine(6)    (WTH) Toni(1)             🆁 (WTH) Frazzle(11)       01:18:51
+#83    (WTH) RipShank            8      3      2.67   1      4      Tank/Arty(8)     (wth) heidi(1)            (WTH) spůůk©(3)           01:21:06
+#84    (WTH) BatArme             8      6      1.33   2      6      Tank/Arty(8)     (WTH) Trotche(1)          (WTH) spůůk©(3)           01:31:03
+#85    Kris Karso                8      6      1.33   0      3      Garand(8)        (WTHr) Anu Bys(2)         🆂 (WTH) Wazzu72(2)        00:38:43
+#86    Flowkey                   8      10     0.8    0      4      M1918A2_BAR(8)   Gecko*(2)                 (WTH) Jestt600(2)         00:39:16
+#87    [82AD) Spud               8      17     0.47   0      4      MG42(8)          (WTH) imolol(2)           (WTH) Duba(2)             02:30:38
+#88    Eiríkr                    8      22     0.36   0      2      Garand(8)        🆂 (WTH) Wazzu72(1)        (WTH) Oskar(4)            00:41:32
+#89    Logan_Moyer               8      22     0.36   0      2      Kar98(8)         Bartone(2)                (WTH) Wild Bill(3)        00:47:59
+#90    Taff08                    7      12     0.58   0      2      MP40(7)          (WTH) imolol(2)           (WTH) imolol(2)           01:58:45
+#91    Star                      7      15     0.47   0      3      M1918A2_BAR(6)   [WTH] Shukle(2)           (WTH) spůůk©(3)           00:57:02
+#92    Detective Torrente        7      17     0.41   1      4      STG44(4)         (WTH) Wild Bill(2)        (WTH) Duba(3)             02:15:57
+#93    Cuz power [Qc]            7      32     0.22   1      5      Garand(6)        (WTH) Trotche(2)          🆁 (WTH) Frazzle(7)        01:30:31
+#94    RV                        6      27     0.22   0      2      Thompson(3)      (WTH) One Vespidy(5)      (WTHr) dl_(6)             01:30:35
+#95    [OC] Templeton            5      4      1.25   0      5      G43(5)           (WTH) Curious George(2)   (WTH) MEvans(1)           00:07:59
+#96    MaslinaUA                 5      7      0.71   0      3      G43(5)           Jonmyle(1)                (WTH)albertalting(1)      02:00:12
+#97    DEANO141                  5      13     0.38   0      2      Thompson(5)      (WTH) Blank(1)            (WTH) Attila(2)           02:18:55
+#98    Clennan                   5      24     0.21   0      1      G43(4)           (WTH) fizkkk(1)           (WTH) Duba(3)             00:57:09
+#99    (WTHr) Anu Bys            5      31     0.16   0      3      Satchel_3KG(3)   (WTH) tørfisk(1)          (WTH) fizkkk(3)           01:31:31
+#100   (WTH) TheAmenai           4      6      0.67   0      4      Tank/Arty(3)     (WTH) Attila(1)           (WTH) spůůk©(3)           01:31:45
+#101   Marley                    4      6      0.67   0      2      Garand(4)        (WTH) Jestt600(1)         [WTH] Nautilus(1)         01:51:47
+#102   twitchtv_MikeB            4      12     0.33   0      2      M1_Carbine(3)    (WTH) Attila(1)           Dekaron [FOX HOUND](3)    02:02:18
+#103   (WTH)LtSchaffer75         4      35     0.11   0      1      G43(2)           (WTH) GodFella(1)         (WTH) Sych(6)             01:30:32
+#104   s.peakeworks              3      6      0.5    0      2      Kar98(2)         (WTHr) Harris(1)          (WTH) Sych(2)             00:27:32
+#105   Wasabski                  3      8      0.38   0      2      MP40(2)          (WTHr) Anu Bys(1)         (WTH) Attila(1)           00:24:39
+#106   bobbiepeperkamp87         3      13     0.23   0      2      M43(1)           (WTH) fizkkk(1)           (WTHr) Harris(2)          00:26:43
+#107   GeekDusty                 2      0      0.0    1      2      Tank/Arty(2)     Bartone(1)                None(0)                   00:10:18
+#108   NFSU2 SOUNDTRACK          2      0      0.0    0      2      STG44(2)         [WTH] Eurynomous(1)       None(0)                   01:35:14
+#109   (WTH) Fo_Shizz            2      6      0.33   0      1      M1_Carbine(1)    Fluffy Rottweiler(1)      (WTH)Ragga(2)             01:52:22
+#110   Heggs                     2      8      0.25   0      2      M1919(2)         (WTH) Crooked(1)          🆁 (WTH) Frazzle(3)        00:25:35
+#111   TomTom                    2      13     0.15   0      1      Thompson(2)      (WTH) One Vespidy(1)      (WTH) Gates(2)            01:18:08
+#112   [(Ord3r_Of_M3lkor)]       2      13     0.15   0      1      M43(1)           Cuz power [Qc](1)         gmomchilov(2)             02:13:54
+#113   Fluffy Rottweiler         2      20     0.1    0      1      MP40(1)          (WTH) Duba(1)             (WTH) Zota(2)             01:03:59
+#114   Walter                    1      2      0.5    0      1      Garand(1)        (WTH) Jestt600(1)         (WTH) Oskar(1)            00:07:58
+#115   maoreales10               1      4      0.25   0      1      G43(1)           (WTH) GodFella(1)         (WTH) Sych(1)             00:15:05
+#116   SkepparnN                 1      7      0.14   0      1      Kar98(1)         🆁 (WTH) Chronic(1)        (WTH) Sych(2)             02:01:36
+#117   (WTH) Liefen              1      9      0.11   0      1      MP40(1)          (WTH) Flash_AUT(1)        (WTH) kabour30(2)         01:30:39
+#118   (WTH) Charlie Skrill      1      9      0.11   0      1      Luger(1)         (WTH) imolol(1)           (WTH) kabour30(4)         01:31:45
+#119   rostoll90                 1      12     0.08   0      1      Garand(1)        (WTH) Cap'n Ducky(1)      🆁 (WTH) Frazzle(3)        00:37:19
+#120   Herbert_The_Pervert       1      13     0.08   0      1      MG42(1)          🆁 (WTH) Chronic(1)        (WTH) Sych(2)             01:46:49
+#121   Lovecraft                 0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:04
+#122   altSZN                    0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:15
+#123   BadaBoom1981              0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:16
+#124   Nearspade                 0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:16
+#125   RobNN                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:41:44
+#126   belamuli                  0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:41:43
+#127   Dirtslinger12             0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:34:06
+#128   Soros                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:36:49
+#129   Dj Bossman                0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:50:17
+#130   sev                       0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:31:48
+#131   TEOn00b                   0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:32:18
+#132   firefox236                0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:32:46
+#133   twitch.tv/saltstormy      0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:32:25
+#134   Crimson_Nomad             0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:35
+#135   D.Sherman                 0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:18
+#136   Majkl                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:13
+#137   Scown                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:02
+#138   dre156                    0      1      0.0    0      0      None(0)          None(0)                   (WTH) Gates(1)            01:45:39
+#139   Sheparud                  0      1      0.0    0      0      None(0)          None(0)                   (WTH) Fo_Shizz(1)         01:35:03
+#140   THE DIAPER GENIE          0      1      0.0    0      0      None(0)          None(0)                   (WTH) Skornogr4phy(1)     00:08:00
+#141   BKTeletubbies *           0      2      0.0    0      0      None(0)          None(0)                   (WTH) Crooked(1)          01:38:45
+#142   Dorsey                    0      3      0.0    0      0      None(0)          None(0)                   (WTH) Sych(1)             01:38:58
+#143   Samael                    0      4      0.0    0      0      None(0)          None(0)                   (WTH) Crooked(1)          00:10:05
+#144   Smacktalkdeluxe           0      4      0.0    0      0      None(0)          None(0)                   🆁 (WTH) Frazzle(2)        00:11:08
+#145   (WTH) KimDamZ             0      8      0.0    0      0      None(0)          None(0)                   (WTH) kabour30(3)         01:30:42
+#146   zvosab                    0      9      0.0    0      0      None(0)          None(0)                   (WTH) Sych(1)             01:53:46

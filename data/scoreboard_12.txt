@@ -1,0 +1,139 @@
+RANK   NAME                      KILLS  DEATHS K/D    TKS    STREAK WEAPON           VICTIM                    NEMESIS                   PLAYTIME
+#1     (WTH) Zota                70     17     4.12   0      13     Garand(61)       FLX || zorbas(6)          (WTH) Jestt600(3)         00:49:34
+#2     (WTHr) Sgt. Rico          47     21     2.24   0      5      Garand(45)       (WTH) Locknah☠(5)         (WTH) Locknah☠(4)         00:49:34
+#3     (WTH) ReformedGamer       45     21     2.14   0      10     STG44(39)        (WTH) Xcessive(5)         (WTHr) Sgt. Rico(4)       00:49:34
+#4     [82ADr] Thorpie           42     8      5.25   0      10     Garand(39)       [PL] Koshat(4)            [PBS]Reinout(1)           00:49:34
+#5     (WTH) Virion              40     5      8.0    3      36     Tank/Arty(36)    [82AD] Kris Karso(3)      Wolfmother(2)             00:49:34
+#6     (WTH) Locknah☠            40     27     1.48   0      5      G43(37)          [WTH]Dúne(5)              (WTHr) Sgt. Rico(5)       00:49:34
+#7     ✪ (WTH) Beard             36     1      36.0   0      30     M1903(35)        Sigismund, First Cap(3)   DEANO141(1)               00:49:34
+#8     🆁 (WTH) Frazzle           33     12     2.75   0      7      M1919(26)        (WTH) MEvans(5)           (WTH) GodFella(2)         00:49:02
+#9     Benny                     32     14     2.29   0      11     Garand(30)       DEANO141(3)               (WTH) Wild Bill(2)        00:49:34
+#10    [WTH]Dúne                 32     17     1.88   0      8      Garand(32)       EL Profesor(5)            (WTH) Locknah☠(5)         00:49:08
+#11    (WTH) tørfisk             31     12     2.58   0      11     STG44(27)        Kévin Roy(3)              Rakuen(2)                 00:49:34
+#12    (WTH) MARIO               30     3      10.0   1      11     Tank/Arty(28)    (WTH)saukti9(3)           Sigismund, First Cap(1)   00:49:34
+#13    [PL] Koshat               28     18     1.56   0      5      MG42(19)         SillyGooseTime(3)         [82ADr] Thorpie(4)        00:41:16
+#14    [82AD] Ghost^Recon        28     21     1.33   0      10     Garand(23)       (WTH) Jeans(3)            (WTH) Jestt600(2)         00:49:34
+#15    [PBS] Spuit               28     26     1.08   0      11     MP40(28)         TCbarbarian(2)            [82AD] Spearhead(3)       00:49:12
+#16    (WTH) Jockey "Joky"       26     10     2.6    0      8      Garand(21)       (WTH)LtSchaffer75(3)      Matmaj(2)                 00:48:54
+#17    (WTH) FERGIE              25     0      0.0    5      25     Tank/Arty(25)    FLX || zorbas(5)          None(0)                   00:49:34
+#18    Rakuen                    25     14     1.79   0      7      M1919(25)        Sigismund, First Cap(4)   (WTH) Virion(3)           00:48:50
+#19    (WTH) Flash_AUT           23     16     1.44   0      4      Kar98(13)        [82AD] Alfy(2)            ✪ (WTH) Beard(3)          00:48:38
+#20    (WTH) LogicSauce          22     10     2.2    0      9      Kar98_Sniper(21) Captain Autism(2)         [82ADr] Thorpie(2)        00:49:34
+#21    [82AD] Spearhead          22     14     1.57   0      5      Garand(17)       [PBS] Spuit(3)            (WTH) ReformedGamer(2)    00:49:34
+#22    (WTH) Caro                21     6      3.5    0      8      Tank/Arty(20)    [82AD] S. McTowelie(3)    (WTH) MARIO(3)            00:49:16
+#23    (WTH) Jestt600            21     14     1.5    0      5      G43(21)          (WTH) Zota(3)             [82AD] Kris Karso(2)      00:48:51
+#24    (WTH) MEvans              20     21     0.95   0      5      G43(16)          (WTH) Wzora(2)            🆁 (WTH) Frazzle(5)        00:49:34
+#25    [PBS] Bohemian Cynic      20     24     0.83   1      4      MP40(13)         [82AD] Optical(4)         [82AD] Optical(3)         00:47:07
+#26    Noob666                   19     17     1.12   0      3      SMG_M3_GreaseGun(19) (WTH) ReformedGamer(2)    (WTH) Wild Bill(2)        00:35:35
+#27    🆁(WTH)Capt Benfield       19     22     0.86   7      5      G43(19)          (WTH) Hans Guhr(2)        (WTH) Zota(5)             00:49:34
+#28    [82AD] Optical            19     24     0.79   0      4      Garand(16)       [PBS] Bohemian Cynic(3)   [PBS] Bohemian Cynic(4)   00:49:34
+#29    (WTH) Wild Bill           18     10     1.8    0      10     Tank/Arty(14)    TCbarbarian(2)            Benny(2)                  00:35:43
+#30    [PBS]W0RSTGUITARIST       18     14     1.29   0      5      G43(18)          (WTH)Khan Levski(2)       [82AD] Alfy(3)            00:49:04
+#31    [82AD] Alfy               18     17     1.06   0      3      Garand(18)       [PBS]W0RSTGUITARIST(3)    [PL] Koshat(2)            00:49:34
+#32    [82ADr] Jonasbror         18     20     0.9    0      6      Garand(16)       [PBS] Bohemian Cynic(2)   Sigismund, First Cap(2)   00:49:34
+#33    [82AD] Kris Karso         17     12     1.42   0      5      Garand(13)       EL Profesor(2)            (WTH) Virion(3)           00:49:34
+#34    (WTH) Nekol               17     27     0.63   0      3      STG44(7)         SillyGooseTime(2)         [82ADr] Thorpie(3)        00:47:55
+#35    (WTH) pizzawithaW         17     28     0.61   0      4      STG44(17)        (WTH) Wzora(2)            🆁 (WTH) Frazzle(3)        00:49:34
+#36    OldmanKilljoy             16     13     1.23   0      5      M1903(15)        (WTHr) Jimbo(2)           (WTH) MEvans(2)           00:49:34
+#37    [PBS] MistaBombastic      16     19     0.84   0      7      STG44(15)        (WTH)Yarrick(2)           (WTH) Zota(2)             01:37:06
+#38    Player2_ZA                15     13     1.15   0      5      STG44(15)        (WTH)Khan Levski(2)       (WTH) Xcessive(3)         00:48:51
+#39    (WTH) Xcessive            14     16     0.88   1      4      TrenchGun(7)     Player2_ZA(3)             (WTH) ReformedGamer(5)    00:34:02
+#40    (WTHr) Jimbo              14     17     0.82   0      4      G43(14)          ✪ (WTH) Hakubus(2)        Llaion(2)                 00:00:29
+#41    [PBS]Reinout              14     21     0.67   0      3      G43(14)          [82AD] Optical(3)         [82AD] Alfy(2)            00:49:34
+#42    [WTH] Shukle              13     6      2.17   1      5      Tank/Arty(7)     Pursuit331(1)             (WTH) Virion(2)           00:00:32
+#43    🆁 (WTH) Chronic           13     15     0.87   0      4      G43(7)           z0mg(2)                   (WTH) MARIO(2)            00:49:34
+#44    MikeLitoris               13     17     0.76   0      4      SMG_M3_GreaseGun(10) Wolff(2)                  [PBS] Bohemian Cynic(2)   00:49:34
+#45    (WTHr) Moon               12     19     0.63   0      4      G43(11)          berrygas(1)               [82ADr] Thorpie(3)        00:48:58
+#46    Sigismund, First Cap      12     19     0.63   1      3      Kar98(6)         [82ADr] Jonasbror(2)      Rakuen(4)                 00:48:49
+#47    (WTH) Jeans               11     18     0.61   0      4      STG44(8)         [82AD] Optical(2)         🆁 (WTH) Frazzle(3)        00:49:34
+#48    (WTH) GodFella            11     27     0.41   0      2      G43(11)          🆁 (WTH) Frazzle(2)        🆁 (WTH) Frazzle(4)        00:49:34
+#49    Jordan                    10     10     1.0    0      3      G43(8)           Fyreon(2)                 (WTHr) Sgt. Rico(2)       00:49:34
+#50    TCbarbarian               10     14     0.71   0      4      Garand(10)       (WTH) ReformedGamer(2)    (WTH) ReformedGamer(4)    00:46:41
+#51    (WTH)Sup                  9      15     0.6    0      3      M1918A2_BAR(9)   DropBushNotBombs(1)       (WTH) Locknah☠(3)         00:49:34
+#52    [PBS] LostViking          9      17     0.53   0      2      STG44(9)         [82AD] Ghost^Recon(1)     Rakuen(2)                 00:49:34
+#53    (WTH) Wzora               9      18     0.5    0      3      Garand(9)        (WTHr) Jimbo(2)           (WTH) pizzawithaW(2)      00:49:34
+#54    Maj. Winters              8      4      2.0    0      4      MP40(5)          (WTH) Wzora(1)            cup_of_joe2(1)            00:49:34
+#55    Tehan                     8      9      0.89   0      3      Thompson(8)      (WTH) GodFella(1)         (WTH) ReformedGamer(2)    00:44:23
+#56    Matmaj                    8      9      0.89   1      4      Tank/Arty(6)     kylejs14(2)               OldmanKilljoy(1)          00:36:50
+#57    berrygas                  8      11     0.73   0      3      Thompson(7)      (WTH) Virion(2)           (WTH) ReformedGamer(2)    00:48:44
+#58    (WTH) Dry brush           8      11     0.73   0      3      M1918A2_BAR(8)   Pursuit331(2)             (WTH) Virion(3)           00:49:34
+#59    Kévin Roy                 8      12     0.67   0      2      Thompson(5)      Wolff(2)                  (WTH) tørfisk(3)          00:48:48
+#60    ✪ (WTH) Hakubus           8      13     0.62   0      3      Thompson(5)      [PBS] Bohemian Cynic(1)   [PL] Koshat(3)            00:49:34
+#61    Wolff                     8      14     0.57   1      2      STG44(8)         (WTH)Khan Levski(2)       Kévin Roy(2)              00:35:36
+#62    (WTH)ScottishStag         8      14     0.57   0      3      MP40(8)          cup_of_joe2(1)            Benny(2)                  00:49:34
+#63    z0mg                      8      16     0.5    0      2      M1_Carbine(6)    Pursuit331(1)             (WTH) tørfisk(2)          01:22:56
+#64    (WTH)Yarrick              8      20     0.4    0      3      Garand(6)        DacTe(2)                  🆁(WTH)Capt Benfield(2)    00:49:34
+#65    (WTH) BatArme             7      3      2.33   0      5      Tank/Arty(7)     (WTH) pizzawithaW(1)      Sigismund, First Cap(1)   00:49:24
+#66    (WTH)saukti9              7      6      1.17   0      3      Tank/Arty(7)     [82AD] Ghost^Recon(2)     (WTH) MARIO(3)            00:49:02
+#67    wileEcoyote               7      10     0.7    0      2      M1918A2_BAR(7)   (WTH) Flash_AUT(1)        (WTH) Pigbin(2)           00:47:44
+#68    (WTHr) GaniBoi            7      18     0.39   0      2      Garand(7)        [PBS] MistaBombastic(2)   [PL] Koshat(2)            00:48:51
+#69    (WTH) Hans Guhr           7      18     0.39   0      5      SMG_M3_GreaseGun(7) EL Profesor(1)            🆁(WTH)Capt Benfield(2)    00:48:43
+#70    (WTH)Khan Levski          7      21     0.33   0      2      Thompson(7)      DropBushNotBombs(2)       [PBS]W0RSTGUITARIST(2)    00:48:37
+#71    EL Profesor               7      28     0.25   0      3      Kar98(7)         (WTH) Hans Guhr(1)        [WTH]Dúne(5)              00:48:56
+#72    Boba HEX                  6      1      6.0    0      5      G43(6)           Fyreon(1)                 🆁 (WTH) Frazzle(1)        00:15:30
+#73    CheggOnline               6      4      1.5    0      4      TrenchGun(6)     [PBS] Bohemian Cynic(1)   (WTH) MEvans(1)           01:06:43
+#74    Mungo                     6      6      1.0    0      3      Thompson(4)      FLX || Azimuth(2)         (WTH) tørfisk(2)          00:28:33
+#75    Pursuit331                6      14     0.43   0      2      STG44(6)         (WTH)Sup(1)               (WTH) Dry brush(2)        00:33:35
+#76    [82AD] S. McTowelie       6      14     0.43   0      3      Garand(4)        [PBS] Spuit(1)            (WTH) Caro(3)             00:49:34
+#77    FLX || Scars              6      21     0.29   0      1      MP40(6)          [82AD] S. McTowelie(1)    (WTH) Zota(6)             00:49:34
+#78    [WTHr] Madengineer25      6      27     0.22   0      2      Kar98(5)         (WTHr) GaniBoi(1)         🆁 (WTH) Frazzle(3)        00:49:34
+#79    Llaion                    5      3      1.67   0      4      Garand(3)        (WTHr) Jimbo(2)           (WTH) Caro(2)             00:18:20
+#80    Wolfmother                5      5      1.0    0      4      M1918A2_BAR(5)   (WTH) Virion(2)           (WTH) Wild Bill(2)        00:21:11
+#81    Korona                    5      6      0.83   0      3      FG42(5)          cup_of_joe2(1)            (WTH) Zota(1)             00:49:34
+#82    DacTe                     5      11     0.45   0      2      G43(3)           [WTH]Dúne(1)              (WTH)Yarrick(2)           00:33:35
+#83    kylejs14                  5      11     0.45   0      2      Garand(5)        (WTH) pizzawithaW(2)      Matmaj(2)                 00:40:22
+#84    Mcpaavo                   5      12     0.42   0      2      TrenchGun(3)     (WTH) Locknah☠(2)         (WTH) Nekol(1)            01:24:55
+#85    (WTH) DucksNuts           5      13     0.38   1      4      Satchel_3KG(4)   Noob666(1)                (WTH) MARIO(2)            00:49:34
+#86    nickschaff63              5      16     0.31   0      3      M1919(3)         Matmaj(1)                 (WTH) ReformedGamer(5)    00:28:15
+#87    Feathers McGraw           4      3      1.33   0      4      M1_Carbine(4)    Pursuit331(1)             🆁(WTH)Capt Benfield(1)    00:13:42
+#88    cup_of_joe2               4      13     0.31   0      1      Garand(4)        Maj. Winters(1)           (WTH) Virion(2)           01:35:02
+#89    DEANO141                  3      4      0.75   0      2      Panzershreck(2)  Wolfmother(1)             Benny(3)                  00:12:34
+#90    (WTH) Pigbin              3      8      0.38   0      1      MP40(2)          wileEcoyote(2)            [82AD] Kris Karso(1)      00:31:00
+#91    Fyreon                    3      9      0.33   0      1      Garand(2)        FLX || zorbas(1)          Jordan(2)                 00:22:36
+#92    Signals                   3      14     0.21   0      3      MG34(3)          (WTH)Sup(1)               (WTH) Zota(2)             00:45:48
+#93    (WTH) Toni                3      16     0.19   0      1      Garand(2)        [PBS] Spuit(1)            (WTH) Virion(3)           00:48:47
+#94    Top Sausage               3      17     0.18   0      2      G43(3)           MikeLitoris(1)            [82ADr] Thorpie(4)        00:49:34
+#95    Shnuks                    2      2      1.0    0      1      M1918A2_BAR(2)   EL Profesor(1)            (WTH) tørfisk(2)          00:32:06
+#96    paulqrst                  2      7      0.29   0      1      Garand(2)        FLX || Azimuth(1)         [PBS] Spuit(1)            01:08:50
+#97    Pie                       2      9      0.22   0      1      MG34(1)          Mcpaavo(1)                berrygas(1)               00:35:15
+#98    DropBushNotBombs          2      12     0.17   0      1      G43(2)           (WTH)Khan Levski(1)       [82ADr] Thorpie(2)        01:28:20
+#99    FLX || Azimuth            2      19     0.11   0      2      G43(2)           cup_of_joe2(1)            (WTH) Zota(2)             00:49:34
+#100   SillyGooseTime            2      22     0.09   0      2      SMG_M3_GreaseGun(2) DacTe(1)                  [PL] Koshat(3)            00:49:34
+#101   FLX || zorbas             2      22     0.09   0      1      Kar98(2)         (WTHr) Sgt. Rico(1)       (WTH) Zota(6)             00:49:34
+#102   Luca                      1      1      1.0    0      1      M1_Carbine(1)    Maj. Winters(1)           (WTH) tørfisk(1)          01:03:54
+#103   ceirish                   1      2      0.5    1      1      Garand(1)        (WTH) Locknah☠(1)         Player2_ZA(1)             00:13:54
+#104   Captain Autism            1      3      0.33   0      1      Garand(1)        (WTH) Locknah☠(1)         (WTH) LogicSauce(2)       00:13:37
+#105   luke_brennan              1      5      0.2    0      1      Garand(1)        [PBS]Reinout(1)           (WTH) pizzawithaW(2)      00:13:47
+#106   (WTH)FriskYPanda®         0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:50:25
+#107   (WTH)KnownConnection      0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:45:17
+#108   Costerly                  0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:02:01
+#109   MoerePhobia               0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:50:18
+#110   RaZoR                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:02:47
+#111   Jon Strongbear            0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:09:16
+#112   (WTH) Duba                0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:51:39
+#113   Tom11081234               0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:51:17
+#114   KroitzPL                  0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:08:30
+#115   Głupek Wioskowy           0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:54:35
+#116   Pulse                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:50:34
+#117   The-Doctor                0      0      0.0    1      0      None(0)          luke_brennan(1)           None(0)                   00:03:39
+#118   LazyTitan                 0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:03:11
+#119   Baron Wilhelm             0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:02:31
+#120   DanThompson               0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:02:18
+#121   Den                       0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:01:48
+#122   Nasko                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:39
+#123   amongus crewmate          0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:16
+#124   The Chosen Juan           0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:10
+#125   pajo032                   0      1      0.0    0      0      None(0)          None(0)                   🆁 (WTH) Chronic(1)        01:00:31
+#126   Chalk                     0      1      0.0    0      0      None(0)          None(0)                   (WTH) MARIO(1)            01:00:36
+#127   Maki                      0      1      0.0    0      0      None(0)          None(0)                   (WTH) Zota(1)             00:08:26
+#128   BUTTERTHIEF               0      1      0.0    0      0      None(0)          None(0)                   🆁(WTH)Capt Benfield(1)    00:03:29
+#129   ♛CedEr♛                   0      2      0.0    0      0      None(0)          None(0)                   (WTH) Virion(1)           00:07:35
+#130   (WTH) CookieMoonster      0      2      0.0    0      0      None(0)          None(0)                   (WTH) Jockey "Joky" (1)   00:14:33
+#131   Alfiriin                  0      2      0.0    0      0      None(0)          None(0)                   ✪ (WTH) Beard(1)          00:14:33
+#132   Low Dog                   0      2      0.0    0      0      None(0)          None(0)                   (WTH) Virion(1)           00:59:43
+#133   Scaryn                    0      3      0.0    0      0      None(0)          None(0)                   (WTH) Nekol(1)            00:19:08
+#134   Dank                      0      3      0.0    0      0      None(0)          None(0)                   [82ADr] Jonasbror(1)      00:17:10
+#135   Oldman                    0      3      0.0    0      0      None(0)          None(0)                   (WTH) GodFella(1)         00:15:19
+#136   iraklaras                 0      5      0.0    0      0      None(0)          None(0)                   (WTH) FERGIE(3)           00:54:28
+#137   Thomas                    0      6      0.0    0      0      None(0)          None(0)                   (WTH) Locknah☠(1)         01:15:31
+#138   (WTH)LtSchaffer75         0      18     0.0    0      0      None(0)          None(0)                   (WTH) Jockey "Joky" (3)   00:48:43

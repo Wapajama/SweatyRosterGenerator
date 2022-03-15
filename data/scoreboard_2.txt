@@ -1,0 +1,164 @@
+RANK   NAME                      KILLS  DEATHS K/D    TKS    STREAK WEAPON           VICTIM                    NEMESIS                   PLAYTIME
+#1     (WTH) VikkoxX             115    1      115.0  21     74     155MM HOWITZER [M114](114) (WTH) nev :)(6)           kasjus87pl(1)             01:22:52
+#2     (WTH) FERGIE              113    9      12.56  8      61     150MM HOWITZER [sFH 18](113) 🆂 (WTH) Wazzu72(11)       Thaddäus Tentakel(6)      01:22:52
+#3     (WTH) ReformedGamer       91     33     2.76   1      13     STG44(52)        (WTHr) Wikstone(9)        //muckSnapper(3)          01:22:52
+#4     (WTH) Duba                83     31     2.68   0      10     GEWEHR 43(57)    (WTH)albertalting(7)      //muckSnapper(3)          01:22:21
+#5     🆂 (WTH) Wazzu72           64     41     1.56   0      14     M1 GARAND(63)    (WTH) Wzora(5)            (WTH) FERGIE(11)          01:22:01
+#6     (WTH) dp                  63     18     3.5    0      16     M1 GARAND(61)    (WTH) Woute(7)            🆁(WTH)Capt Benfield(3)    01:22:12
+#7     (WTH) Woute               60     46     1.3    0      13     STG44(45)        (WTH) Flash_AUT(5)        (WTH) dp(7)               01:22:42
+#8     (WTH) Oskar               57     38     1.5    0      8      GEWEHR 43(56)    (WTH) Hans Guhr(6)        🆂 (WTH) Wazzu72(4)        01:22:52
+#9     (WTH) pizzawithaW         56     41     1.37   0      9      GEWEHR 43(53)    🆂 (WTH) Wazzu72(5)        (WTH) Zippo(5)            01:22:21
+#10    🆁(WTH)Capt Benfield       53     33     1.61   0      7      GEWEHR 43(49)    (WTHr) Wikstone(5)        (WTH) Satchel(4)          01:22:52
+#11    (WTH) Trotche             52     45     1.16   0      10     M1 GARAND(50)    Crack Sparrow(5)          (WTH) FERGIE(5)           01:22:06
+#12    (WTH) MARIO               49     5      9.8    3      39     76MM M1 GUN [Sherman M4A3E2(76)](40) (WTH) Pigbin(7)           (WTH) Pigbin(2)           01:22:44
+#13    (WTHr) Bubblebeard        49     29     1.69   0      7      GEWEHR 43(30)    Frankiii82(4)             (WTH) MARIO(3)            01:10:20
+#14    (WTHr) Reinout            48     17     2.82   0      16     GEWEHR 43(20)    (WTH) GodFella(5)         [WTH]Dúne(2)              01:22:52
+#15    (WTH) Satchel             47     21     2.24   0      8      M1 GARAND(47)    (WTH) nev :)(5)           Cavecake(3)               01:22:22
+#16    (WTH) GodFella            45     27     1.67   0      5      M1903 SPRINGFIELD(45) 🆁 (WTH) Frazzle(5)        (WTHr) Reinout(5)         01:22:32
+#17    (WTHr) Magic Jokic        42     42     1.0    0      5      MP40(32)         TritoN(4)                 (WTH) MARIO(3)            02:43:30
+#18    (WTH) Froontan            40     40     1.0    0      9      M1 GARAND(30)    (WTH)SGT. Stag(3)         (WTH) FERGIE(4)           01:22:52
+#19    (WTHr)Coentronn ##        37     31     1.19   0      9      M1 GARAND(36)    (WTH)SGT. Stag(4)         (WTH) MEvans(4)           01:22:21
+#20    (WTH) Wild Bill           36     22     1.64   0      6      M1 GARAND(29)    DildoMaster(4)            (WTH) Duba(4)             02:29:16
+#21    (WTH) Flash_AUT           36     29     1.24   1      5      M1 GARAND(34)    [WTH] Madengineer251(4)   (WTH) Woute(5)            01:22:52
+#22    (WTHr) Bohemian Cyni      34     21     1.62   0      6      M1 GARAND(26)    Thaddäus Tentakel(4)      (WTH) Duba(4)             01:22:52
+#23    (WTH) Odaal               34     40     0.85   0      5      M1 GARAND(30)    (WTHr) ★Asy👽Lium ツ (3)    (WTH) ReformedGamer(6)    01:21:28
+#24    //muckSnapper             32     25     1.28   1      7      M1 GARAND(32)    (WTH)saukti9(4)           (WTH) FERGIE(4)           01:22:52
+#25    (WTH) Zippo               31     29     1.07   0      4      M1 GARAND(23)    (WTH) pizzawithaW(5)      (WTH) Duba(4)             01:22:51
+#26    Crack Sparrow             29     27     1.07   0      7      GEWEHR 43(28)    ✪|WTH| STEWIE(3)          (WTH) Trotche(5)          02:22:24
+#27    🆁 (WTH) Frazzle           29     38     0.76   2      5      GEWEHR 43(28)    Danim(3)                  (WTH) GodFella(5)         01:22:52
+#28    (WTH) Wapajama            28     18     1.56   0      6      BROWNING M1919(19) DazeFotis(3)              🆁(WTH)Capt Benfield(5)    01:22:26
+#29    (WTH) Beard               28     23     1.22   0      7      M1 GARAND(27)    🆁 (WTH) Frazzle(4)        (WTH) ReformedGamer(3)    01:22:52
+#30    RullStolsRoger            28     32     0.88   0      6      M1918A2 BAR(19)  (WTH) Oskar(2)            (WTHr) Reinout(3)         01:22:21
+#31    Frankiii82                28     35     0.8    0      6      M1 CARBINE(28)   (WTHr) Magic Jokic(3)     (WTHr) Bubblebeard(4)     01:22:52
+#32    (WTH) nev :)              28     40     0.7    4      4      GEWEHR 43(26)    Maksimus666(3)            (WTH) VikkoxX(6)          01:22:52
+#33    [WTH]Dúne                 28     44     0.64   0      3      M1 GARAND(28)    🆂 (WTH) JagdGG(3)         (WTH) FERGIE(7)           01:22:08
+#34    🆂 (WTH) JagdGG            27     29     0.93   0      6      KARABINER 98K(20) (WTH) Trotche(3)          🆂 (WTH) Wazzu72(3)        01:22:22
+#35    HeawyBreathing            26     5      5.2    0      19     KARABINER 98K x8(26) (WTHr)Ograkk(3)           (WTH) Xcessive(1)         02:16:18
+#36    CrowdeR                   26     23     1.13   1      6      M1 GARAND(24)    🆁(WTH)Capt Benfield(2)    (WTH) ReformedGamer(5)    00:57:47
+#37    (WTHr) AkSakal            26     24     1.08   0      6      M1 GARAND(16)    (WTH) Woute(4)            (WTH) Duba(4)             01:22:23
+#38    (WTH) MEvans              26     38     0.68   0      6      MG42(15)         (WTHr)Coentronn ##(4)     (WTH) VikkoxX(6)          01:22:11
+#39    TritoN                    25     26     0.96   0      7      M1A1 THOMPSON(14) Funkle Neighbor(2)        (WTHr) Magic Jokic(4)     01:22:13
+#40    radapciger                24     20     1.2    0      6      GEWEHR 43(24)    [WTH]Dúne(3)              (WTH) Zippo(5)            02:29:31
+#41    (WTHr)Ograkk              23     23     1.0    0      3      M1 GARAND(19)    🆁 (WTH) Frazzle(4)        🆁(WTH)Capt Benfield(4)    01:19:56
+#42    ✪|WTH| STEWIE             23     30     0.77   0      8      M1 GARAND(23)    (WTH) pizzawithaW(2)      (WTH) FERGIE(5)           01:22:52
+#43    (WTH) Pigbin              21     9      2.33   0      10     88 KWK 36 L/56 [Sd.Kfz.181 Tiger 1](15) El Gringo(3)              (WTH) MARIO(7)            01:22:52
+#44    Cavecake                  21     28     0.75   0      4      GEWEHR 43(18)    (WTH) Satchel(3)          (WTH) Flash_AUT(4)        01:21:26
+#45    (WTH) Wzora               20     21     0.95   0      12     MP40(18)         (WTH) Jimbo(2)            🆂 (WTH) Wazzu72(5)        00:44:40
+#46    (WTH) Pumpkin™            20     30     0.67   0      4      M1 CARBINE(14)   Zucchini(3)               (WTH) FERGIE(4)           02:35:47
+#47    (WTH)AFK                  19     28     0.68   1      3      GEWEHR 43(19)    (WTH) imolol(4)           (WTH) GodFella(3)         01:22:52
+#48    [1AD] Hans Landa BE/      18     25     0.72   0      4      STG44(18)        (WTH) Beard(3)            (WTH) Wapajama(3)         02:17:43
+#49    (WTH) Xcessive            16     17     0.94   1      3      M1 GARAND(8)     浮生丶(2)                    (WTHr) Reinout(3)         01:22:52
+#50    ✪ (WTH) Hakubus           15     19     0.79   0      4      M1 GARAND(11)    Crack Sparrow(2)          (WTHr) Bubblebeard(4)     01:22:23
+#51    (WTH)saukti9              15     34     0.44   0      4      GEWEHR 43(6)     RullStolsRoger(2)         //muckSnapper(4)          01:22:22
+#52    [WTH] Madengineer251      15     35     0.43   0      5      KARABINER 98K(14) (WTH) Trotche(3)          (WTH) VikkoxX(5)          01:22:52
+#53    (WTH)albertalting         15     46     0.33   0      3      M1A1 THOMPSON(9) (WTHr) BzaWack(3)         (WTH) Duba(7)             01:22:41
+#54    MostlyPorridge            14     14     1.0    0      6      M1 GARAND(14)    🆁 (WTH) Frazzle(2)        (WTH) FERGIE(4)           00:50:28
+#55    (WTH) Jimbo               14     21     0.67   0      2      M1 GARAND(13)    HouseofLeus(2)            (WTH) Wzora(2)            01:22:52
+#56    (WTH)Ragga                14     33     0.42   1      4      M1A1 THOMPSON(14) (WTHr) Magic Jokic(2)     (WTH) Oskar(5)            01:22:28
+#57    wovoka69                  14     33     0.42   0      3      M1 GARAND(10)    (WTH) Oskar(2)            (WTH) FERGIE(5)           02:38:40
+#58    Xardinen                  13     10     1.3    0      4      KARABINER 98K(7) (WTH) Odaal(2)            (WTHr)Ograkk(2)           01:59:02
+#59    (WTH) Teekhage            13     22     0.59   0      5      M1 GARAND(8)     (WTH) Oskar(3)            (WTH) FERGIE(4)           01:22:52
+#60    浮生丶                       13     27     0.48   0      4      MP40(12)         (WTH) Zippo(2)            (WTH) VikkoxX(5)          02:41:00
+#61    MicroManiac               13     31     0.42   0      4      M1 GARAND(12)    (WTHr) Magic Jokic(2)     (WTH) Duba(3)             01:22:23
+#62    Danim                     13     44     0.3    0      3      M1918A2 BAR(7)   DildoMaster(2)            (WTH) FERGIE(5)           01:22:26
+#63    Box_Spoon_Bill            12     4      3.0    1      8      76MM M1 GUN [Sherman M4A3E2(76)](8) (WTH) MEvans(1)           (WTH) Pigbin(3)           01:16:18
+#64    DildoMaster               12     20     0.6    0      5      KARABINER 98K x8(11) (WTHr) Bohemian Cyni(2)   (WTH) Wild Bill(4)        01:02:36
+#65    (WTH) Toni                12     26     0.46   0      4      GEWEHR 43(12)    (WTH) Flash_AUT(2)        (WTH) VikkoxX(4)          01:22:39
+#66    FLX || Scars              10     5      2.0    0      3      MP40(10)         (WTH) Wapajama(2)         (WTH) Wapajama(1)         01:22:52
+#67    Noblesse                  10     7      1.43   0      4      M1 GARAND(7)     (WTH) nev :)(3)           (WTH) FERGIE(3)           01:42:26
+#68    crosshair                 10     17     0.59   1      2      MG34(8)          (WTH) Beard(2)            (WTH) Froontan(2)         01:56:06
+#69    (WTH) imolol              10     18     0.56   0      4      M1 CARBINE(9)    (WTHr) ★Asy👽Lium ツ (3)    (WTH)AFK(4)               01:22:27
+#70    DazeFotis                 10     22     0.45   0      3      MP40(10)         (WTH) Zippo(1)            (WTH) Wapajama(3)         01:22:23
+#71    (WTH) Dry brush           10     25     0.4    0      3      MP40(10)         (WTH) Pumpkin™(2)         (WTH) VikkoxX(5)          01:11:41
+#72    (WTH)SGT. Stag            10     38     0.26   1      3      GEWEHR 43(10)    (WTH) Pumpkin™(2)         (WTHr)Coentronn ##(4)     01:22:52
+#73    [WTH] Shukle              9      5      1.8    0      5      BROWNING M1919(9) 🆁 (WTH) Frazzle(2)        (WTH) Duba(2)             00:19:10
+#74    (WTHr) Wikstone           9      38     0.24   0      1      M1 CARBINE(5)    (WTH) Woute(2)            (WTH) ReformedGamer(9)    01:22:30
+#75    El Gringo                 8      4      2.0    0      6      76MM M1 GUN [Sherman M4A3E2(76)](6) It´s so big(1)            (WTH) Pigbin(3)           01:13:28
+#76    WrangeL                   8      6      1.33   0      3      MG42(8)          (WTH) RipShank(2)         (WTH) Peter(1)            01:46:02
+#77    Tj                        8      8      1.0    1      4      MP40(7)          (WTH) Hans Guhr(2)        ✪|WTH| STEWIE(1)          00:24:26
+#78    Maksimus666               8      11     0.73   0      3      M1 GARAND(8)     (WTHr) Magic Jokic(1)     (WTH) nev :)(3)           00:57:12
+#79    (WTH) RipShank            8      16     0.5    0      2      M1 GARAND(6)     (WTH) nev :)(1)           🆁(WTH)Capt Benfield(2)    02:38:51
+#80    Kaamos                    8      16     0.5    0      3      MP40(8)          (WTH) Odaal(2)            (WTH) GodFella(3)         01:10:54
+#81    210 Moberg                8      18     0.44   0      3      M1A1 THOMPSON(8) (WTH) ReformedGamer(2)    (WTH) Oskar(4)            01:05:14
+#82    (WTH) Peter               8      19     0.42   0      3      M1A1 THOMPSON(8) WrangeL(1)                (WTH) pizzawithaW(3)      01:22:52
+#83    HouseofLeus               8      27     0.3    0      2      STG44(7)         (WTHr) Wikstone(1)        🆂 (WTH) Wazzu72(3)        01:21:21
+#84    Aapertti                  7      4      1.75   0      7      75MM CANNON [Sherman M4A1](7) (WTH) Woute(2)            (WTH) TheAmenai(1)        00:20:03
+#85    HaZe                      7      5      1.4    0      3      MG34(7)          (WTHr)Ograkk(2)           (WTHr) AkSakal(2)         01:44:49
+#86    ★ Hansen                  7      7      1.0    0      3      M1 CARBINE(5)    浮生丶(1)                    (WTH) FERGIE(2)           00:30:39
+#87    (WTHr)Smeden              7      19     0.37   0      3      STG44(4)         (WTH)albertalting(2)      (WTHr)Coentronn ##(2)     01:22:52
+#88    (WTHr) ★Asy👽Lium ツ        7      20     0.35   0      3      KARABINER 98K(3) (WTH) Froontan(2)         (WTH) Odaal(3)            01:22:52
+#89    (WTH) Gabriel Star        7      20     0.35   0      2      FG42(4)          //muckSnapper(2)          (WTH) dp(2)               00:53:18
+#90    Thaddäus Tentakel         7      21     0.33   6      2      MP40(5)          (WTH) FERGIE(6)           (WTHr) Bohemian Cyni(4)   02:26:30
+#91    (WTHr) BzaWack            7      40     0.17   1      2      KARABINER 98K(4) (WTH)albertalting(2)      (WTH) VikkoxX(5)          01:22:52
+#92    MPOWER                    6      8      0.75   0      5      75MM CANNON [Sd.Kfz.161 Panzer IV](5) (WTH) Pumpkin™(2)         (WTH) MARIO(6)            01:05:21
+#93    FROSTBITE                 6      16     0.38   0      5      M1 GARAND(4)     (WTH) Dry brush(2)        🆁(WTH)Capt Benfield(3)    01:53:45
+#94    (WTH) Hans Guhr           6      25     0.24   0      2      M3 GREASE GUN(3) (WTH) Wzora(1)            (WTH) Oskar(6)            02:43:35
+#95    (WTH) Kenty               6      30     0.2    0      3      GEWEHR 43(4)     TritoN(2)                 (WTH) VikkoxX(4)          02:43:17
+#96    (WTH)LtSchaffer75         6      34     0.18   0      3      M1 GARAND(5)     (WTH)AFK(2)               (WTH) ReformedGamer(4)    01:22:26
+#97    (WTH) HouseGangster       5      10     0.5    0      4      BOMBING RUN(4)   (WTH) dp(1)               (WTH) Satchel(2)          01:22:20
+#98    Funkle Neighbor           5      14     0.36   0      2      KARABINER 98K(5) (WTH) Jimbo(1)            TritoN(2)                 00:29:27
+#99    VYHUL OKO                 4      2      2.0    0      4      STG44(4)         (WTH)Ragga(1)             (WTH) Hans Guhr(1)        01:33:45
+#100   Bonns                     4      3      1.33   0      2      STG44(4)         (WTH) Zippo(1)            (WTH) FERGIE(1)           01:43:23
+#101   Hilberts Erbe             4      5      0.8    0      2      STG44(3)         TritoN(1)                 (WTH) Satchel(1)          00:13:52
+#102   WolfyStatesman            4      5      0.8    0      3      MP40(4)          wovoka69(1)               (WTH) Zippo(1)            01:39:48
+#103   kasjus87pl                4      10     0.4    0      4      GEWEHR 43(4)     (WTH) TheAmenai(1)        (WTH) VikkoxX(2)          01:51:36
+#104   It´s so big               4      18     0.22   3      1      KARABINER 98K(4) (WTH) FERGIE(2)           (WTH) FERGIE(2)           02:23:34
+#105   HAHAHAH                   3      2      1.5    0      2      M1A1 THOMPSON(2) (WTHr) BzaWack(1)         (WTH) Toni(1)             01:28:23
+#106   The Bane                  3      5      0.6    0      2      KARABINER 98K(2) Aapertti(1)               (WTH) Teekhage(1)         01:36:39
+#107   Simon                     3      8      0.38   0      1      KARABINER 98K(2) Frankiii82(1)             (WTH) MARIO(2)            02:03:13
+#108   juraj varga               3      11     0.27   0      2      KARABINER 98K x8(2) (WTHr) Bohemian Cyni(1)   (WTH) VikkoxX(3)          01:42:41
+#109   Zucchini                  3      14     0.21   0      1      GEWEHR 43(2)     (WTH) Peter(1)            (WTH) Pumpkin™(3)         01:51:55
+#110   Fel Lefowsky              3      16     0.19   0      2      M1 GARAND(3)     (WTH) Duba(1)             (WTH) FERGIE(4)           00:59:16
+#111   Xan                       2      2      1.0    0      2      M6 37mm [M8 Greyhound](2) 🆁 (WTH) Frazzle(1)        (WTHr) Magic Jokic(1)     00:20:12
+#112   (WTH) BatArme             2      5      0.4    1      2      COLT M1911(2)    (WTHr) Magic Jokic(1)     (WTH) Pigbin(2)           01:22:52
+#113   (WTH) El Conveyor         2      8      0.25   0      1      Sd.Kfz.234 Puma(1) //muckSnapper(1)          (WTH) MARIO(6)            01:22:52
+#114   Jamon ass                 2      8      0.25   0      1      KARABINER 98K(1) //muckSnapper(1)          (WTH) VikkoxX(3)          01:33:44
+#115   Butterkokonut             2      13     0.15   0      2      MG34(2)          RullStolsRoger(1)         (WTH) VikkoxX(3)          02:02:35
+#116   Black rabbit              2      19     0.11   0      1      GEWEHR 43(2)     wovoka69(1)               (WTH) VikkoxX(3)          02:04:14
+#117   Pablo_Ru$cobar73          1      1      1.0    0      1      MK2 GRENADE(1)   (WTHr) Reinout(1)         (WTH) FERGIE(1)           01:36:21
+#118   |||™ ToMy..               1      1      1.0    0      1      KARABINER 98K(1) (WTH) GodFella(1)         (WTH) Beard(1)            01:36:47
+#119   Spooky Mulder             1      2      0.5    0      1      KARABINER 98K(1) (WTH) Froontan(1)         Frankiii82(1)             01:32:11
+#120   Dill Doe Baggins          1      2      0.5    0      1      M1 GARAND(1)     (WTH)AFK(1)               (WTH) FERGIE(1)           01:31:55
+#121   Lord Archibald Knigh      1      2      0.5    0      1      GEWEHR 43(1)     (WTH)LtSchaffer75(1)      G0RG0NZ0LA(1)             01:29:45
+#122   Fat n Obese               1      6      0.17   0      1      KARABINER 98K(1) (WTHr) Wikstone(1)        CrowdeR(1)                01:45:44
+#123   G0RG0NZ0LA                1      11     0.09   0      1      M1 GARAND(1)     Lord Archibald Knigh(1)   (WTHr) Magic Jokic(2)     01:48:37
+#124   VonBisClarke              0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:01:06
+#125   samz0098                  0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:01:34
+#126   None                      0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:22:52
+#127   zKLG                      0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:28:17
+#128   Dorian                    0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:31:57
+#129   hueberoni                 0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:22:56
+#130   FLX || Foivos             0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:23:10
+#131   jeff                      0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:23:35
+#132   Berren                    0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:24:15
+#133   {-.{-.-}.-} Remko         0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:04:55
+#134   LeXoram                   0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:25:52
+#135   Deztroyez                 0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:23:25
+#136   {-.{-.-}.-} Arvideo       0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:26:49
+#137   Kakmaster69               0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:04:05
+#138   {-.{-.-}.-} EASY-K        0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:04:03
+#139   P. Nus                    0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:03:55
+#140   zveriokk                  0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:25:17
+#141   ziLi                      0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:25:48
+#142   Zeep                      0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:03:28
+#143   theodorfoglia             0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:03:15
+#144   Ram                       0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:03:02
+#145   Khaotic Hawk              0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:02:56
+#146   OSGOD                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:02:51
+#147   AK-47Sinned               0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:02:35
+#148   BAT [STRAT]               0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:02:35
+#149   AHappyButterfly           0      0      0.0    1      0      None(0)          (WTHr)Coentronn ##(1)     None(0)                   00:02:12
+#150   B0TTLEB0RN                0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:01:52
+#151   Aburr                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:01:47
+#152   2nd/RGR Erelas            0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:41
+#153   Tosbik                    0      1      0.0    0      0      None(0)          None(0)                   (WTH) Woute(1)            01:25:17
+#154   Noblesix98                0      1      0.0    0      0      None(0)          None(0)                   (WTH)AFK(1)               00:04:00
+#155   Skurkovic                 0      1      0.0    0      0      None(0)          None(0)                   Xan(1)                    00:03:09
+#156   Helmet Hair               0      2      0.0    0      0      None(0)          None(0)                   (WTH) GodFella(1)         01:34:20
+#157   Whistler                  0      2      0.0    0      0      None(0)          None(0)                   (WTHr) Magic Jokic(1)     00:20:07
+#158   |||™ Tealc                0      2      0.0    0      0      None(0)          None(0)                   (WTH) GodFella(2)         01:31:36
+#159   Sunne                     0      2      0.0    0      0      None(0)          None(0)                   (WTH) VikkoxX(1)          01:30:33
+#160   Skaviito                  0      3      0.0    0      0      None(0)          None(0)                   (WTH) Odaal(1)            00:11:48
+#161   π-čovina (Johnny)         0      5      0.0    0      0      None(0)          None(0)                   (WTH) VikkoxX(4)          01:27:59
+#162   slickdaddy                0      6      0.0    0      0      None(0)          None(0)                   (WTH) dp(2)               00:17:08
+#163   (WTH) TheAmenai           0      7      0.0    1      0      None(0)          Aapertti(1)               (WTH) Pigbin(2)           01:22:52

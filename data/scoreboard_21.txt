@@ -1,0 +1,75 @@
+RANK   NAME                      KILLS  DEATHS K/D    TKS    STREAK WEAPON           VICTIM                    NEMESIS                   PLAYTIME
+#1     (WTH) VikkoxX             112    0      0.0    11     112    150MM HOWITZER [sFH 18](111) (WTH)SGT. Stag(8)         None(0)                   01:31:41
+#2     (WTH) ReformedGamer       105    47     2.23   0      13     M1 GARAND(104)   [WTH]Dúne(9)              (WTHr) Bubblebeard(6)     01:31:55
+#3     (WTH) Sgt. Rico           89     43     2.07   0      14     STG44(41)        (WTH) nev :)(10)          (WTH) FERGIE(6)           01:30:48
+#4     (WTH) FERGIE              81     0      0.0    3      81     155MM HOWITZER [M114](81) (WTH) Nekol(6)            None(0)                   01:31:55
+#5     (WTH) Jockey "Joky"       80     40     2.0    1      9      M1 GARAND(70)    (WTH) Oskar(6)            (WTH) tørfisk(7)          01:30:55
+#6     (WTH) tørfisk             76     24     3.17   1      18     GEWEHR 43(75)    (WTH) Satchel(8)          (WTH) FERGIE(5)           01:30:48
+#7     (WTH) MEAT TITAN          69     39     1.77   0      9      STG44(35)        ✪|WTH| STEWIE(5)          (WTH) FERGIE(4)           01:30:51
+#8     (WTH) Satchel             62     33     1.88   0      13     M1 GARAND(60)    🆂 (WTH) JagdGG(5)         (WTH) tørfisk(8)          01:30:40
+#9     (WTH) Froontan            57     41     1.39   0      5      MP40(47)         (WTH) GaniBoi(5)          🆁 (WTH) Frazzle(5)        01:31:55
+#10    (WTHr) Bubblebeard        56     37     1.51   0      7      GEWEHR 43(39)    (WTH) ReformedGamer(6)    (WTH) ReformedGamer(8)    01:31:55
+#11    (WTH) Abusify             55     19     2.89   0      16     KARABINER 98K x8(52) (WTHr) ★Asy👽Lium ツ (7)    🆁 (WTH) Frazzle(4)        01:30:53
+#12    (WTH) Beard               53     3      17.67  1      38     76MM M1 GUN [Sherman M4A3E2(76)](25) (WTH) Oskar(4)            (WTH) Caro(2)             01:31:09
+#13    (WTH) Gates               52     32     1.62   0      6      GEWEHR 43(51)    (WTH)albertalting(6)      (WTHr) Bohemian Cyni(5)   01:31:55
+#14    (WTH) Oskar               50     38     1.32   0      6      GEWEHR 43(49)    (WTH) Pumpkin™(6)         (WTH) Jockey "Joky" (6)   01:31:18
+#15    (WTH) Sajked              46     35     1.31   0      9      BROWNING M1919(34) (WTH) Sgt. Rico(5)        (WTH) tørfisk(5)          01:30:51
+#16    [WTH]Dúne                 46     39     1.18   0      6      STG44(33)        (WTH) ReformedGamer(6)    (WTH) ReformedGamer(9)    01:30:39
+#17    (WTH) imolol              40     24     1.67   0      7      M1903 SPRINGFIELD(38) [WTH]Dúne(5)              🆁(WTH)Capt Benfield(4)    01:31:54
+#18    (WTH) Xcessive            39     34     1.15   1      6      M1 CARBINE(39)   (WTH) Peter(4)            [WTH]Dúne(4)              01:31:55
+#19    (WTH) Doodlebugs          37     21     1.76   0      5      MP40(36)         (WTHr) spLint3r(4)        🆁 (WTH) Frazzle(3)        01:30:45
+#20    [WTH] Eurynomous          37     36     1.03   1      5      M1 GARAND(27)    (WTH) Oskar(4)            (WTH) Sgt. Rico(5)        01:31:55
+#21    (WTH) Jimbo               37     39     0.95   0      8      M1 GARAND(32)    (WTH) wobbegong21(5)      (WTH) MEAT TITAN(5)       01:31:55
+#22    (WTHr) Bohemian Cyni      37     45     0.82   0      7      M1 GARAND(35)    (WTH) pizzawithaW(6)      (WTH) VikkoxX(8)          01:31:10
+#23    (WTH) Trotche             37     50     0.74   0      6      M1 GARAND(32)    (WTHr) BzaWack(4)         (WTH) VikkoxX(7)          01:31:50
+#24    (WTH) Zippo               36     38     0.95   0      5      GEWEHR 43(35)    (WTHr) ★Asy👽Lium ツ (5)    (WTH) FERGIE(6)           01:30:55
+#25    (WTH) Nekol               36     41     0.88   0      4      GEWEHR 43(11)    (WTH) Xcessive(4)         (WTH) FERGIE(6)           01:31:20
+#26    (WTH) Wapajama            34     32     1.06   0      11     MG42(28)         (WTHr) Reinout(4)         (WTH) Satchel(4)          01:30:46
+#27    (WTHr) Reinout            33     33     1.0    0      4      M1 GARAND(33)    (WTH) pizzawithaW(4)      (WTH) Wapajama(4)         01:31:55
+#28    🆁 (WTH) Frazzle           32     46     0.7    0      5      M1 GARAND(28)    (WTH) Froontan(5)         (WTH) Silverschakal(4)    01:31:55
+#29    (WTH) Wild Bill           31     18     1.72   0      12     M1 GARAND(15)    🆂 (WTH) JagdGG(3)         (WTH) VikkoxX(4)          02:35:14
+#30    (WTH) Silverschakal       31     40     0.78   1      5      MP40(15)         🆁 (WTH) Frazzle(4)        (WTH) GaniBoi(4)          01:31:55
+#31    🆁(WTH)Capt Benfield       30     23     1.3    0      7      GEWEHR 43(30)    (WTH) ReformedGamer(5)    (WTH) ReformedGamer(5)    01:31:55
+#32    (WTH) GaniBoi             30     42     0.71   0      8      M1 GARAND(29)    (WTH) Silverschakal(4)    (WTH) VikkoxX(7)          01:30:34
+#33    (WTHr) Woute              27     43     0.63   1      5      M1 GARAND(17)    (WTH) Nekol(3)            (WTH) Sgt. Rico(5)        01:31:55
+#34    (WTH) pizzawithaW         27     51     0.53   0      4      STG44(17)        (WTHr) GARMINGO(5)        (WTH) ReformedGamer(6)    01:30:50
+#35    (WTH)Yarrick              26     34     0.76   0      4      MP40(15)         (WTH)albertalting(5)      (WTH) FERGIE(5)           01:31:55
+#36    (WTH) wobbegong21         25     38     0.66   1      6      GEWEHR 43(16)    (WTH) Toni(3)             (WTH) Jimbo(5)            01:31:00
+#37    [WTH]FlashBlack           24     7      3.43   0      9      88 KWK 36 L/56 [Sd.Kfz.181 Tiger 1](16) (WTH) BatArme(3)          (WTH) Beard(3)            01:30:46
+#38    (WTH) Caro                22     11     2.0    0      13     88 KWK 36 L/56 [Sd.Kfz.181 Tiger 1](18) (WTH) BatArme(4)          (WTH) MARIO(3)            01:31:12
+#39    ✪|WTH| STEWIE             21     30     0.7    0      6      M1 GARAND(13)    (WTH)Yarrick(3)           (WTH) MEAT TITAN(5)       01:31:55
+#40    (WTH) Pumpkin™            21     45     0.47   0      3      M1 CARBINE(14)   (WTH)Yarrick(3)           (WTH) Oskar(6)            01:30:43
+#41    (WTHr) spLint3r           19     46     0.41   0      4      M1 GARAND(8)     (WTH) MEAT TITAN(4)       (WTH) Sgt. Rico(6)        01:31:55
+#42    (WTH) kabour30            18     9      2.0    1      7      76MM M1 GUN [Sherman M4A3E2(76)](9) (WTH) wobbegong21(2)      (WTH) Caro(4)             01:31:08
+#43    (WTH)Sup                  18     40     0.45   1      3      KARABINER 98K(15) (WTH) Teekhage(2)         (WTH) Sajked(4)           01:31:36
+#44    (WTH) nev :)              18     40     0.45   1      5      M1 GARAND(18)    (WTH) Zippo(3)            (WTH) Sgt. Rico(10)       01:24:31
+#45    (WTH) PatientZero.5       17     38     0.45   0      2      GEWEHR 43(17)    [WTH] Eurynomous(4)       (WTH) FERGIE(4)           01:31:13
+#46    (WTH)albertalting         17     51     0.33   1      2      M1A1 THOMPSON(10) (WTH) MEAT TITAN(2)       (WTH) Gates(6)            01:31:04
+#47    (WTH) MARIO               16     11     1.45   1      10     75MM CANNON [Sherman M4A1](10) (WTH) El Conveyor(3)      (WTH) Caro(3)             01:31:07
+#48    (WTHr) GARMINGO           16     38     0.42   0      3      M1 CARBINE(6)    (WTH)Sup(2)               (WTH) VikkoxX(7)          00:00:30
+#49    (WTH) Gwyn11              15     33     0.45   0      4      GEWEHR 43(9)     (WTHr) Woute(3)           (WTH) ReformedGamer(7)    01:30:49
+#50    🆂 (WTH) JagdGG            15     41     0.37   0      2      GEWEHR 43(13)    (WTH) Jockey "Joky" (3)   (WTH) ReformedGamer(8)    01:30:48
+#51    (WTH) Peter               13     33     0.39   0      4      KARABINER 98K(12) (WTH)albertalting(2)      (WTH) Xcessive(4)         01:31:15
+#52    (WTH)SGT. Stag            13     42     0.31   0      2      M1A1 THOMPSON(7) (WTH)Sup(2)               (WTH) VikkoxX(8)          01:31:55
+#53    (WTH) MEvans              12     33     0.36   0      4      GEWEHR 43(12)    (WTHr) Woute(3)           (WTH) ReformedGamer(5)    01:31:26
+#54    [WTH] Madengineer251      12     37     0.32   0      2      M1 GARAND(6)     (WTH) Zippo(2)            (WTH) VikkoxX(7)          01:10:43
+#55    (WTH)AFK                  10     31     0.32   0      3      MP40(3)          (WTH) Jockey "Joky" (2)   (WTH) ReformedGamer(8)    01:31:55
+#56    (WTHr) ★Asy👽Lium ツ        10     34     0.29   2      2      M1918A2 BAR(4)   (WTH) Nekol(2)            (WTH) Abusify(7)          01:31:00
+#57    (WTH) Dry brush           10     34     0.29   0      3      M1A1 THOMPSON(5) (WTHr) BzaWack(3)         (WTH) VikkoxX(5)          01:31:55
+#58    (WTHr) Fux3c              10     37     0.27   0      4      MG42(6)          (WTH) Teekhage(2)         (WTH) ReformedGamer(6)    01:30:39
+#59    (WTHr) BzaWack            10     44     0.23   0      2      KARABINER 98K(10) (WTH) Jimbo(2)            (WTH) ReformedGamer(5)    01:31:18
+#60    (WTH) Kenty               9      31     0.29   0      2      M1 GARAND(8)     (WTHr) BzaWack(2)         (WTH) VikkoxX(4)          01:26:50
+#61    (WTH) Toni                9      45     0.2    0      3      M1 GARAND(5)     (WTH) MEAT TITAN(2)       (WTH) VikkoxX(8)          01:31:55
+#62    (WTH) BatArme             4      9      0.44   0      3      HULL M1919 [Sherman M4A3E2(76)](3) (WTHr) Wikstone(1)        (WTH) Caro(4)             01:31:55
+#63    (WTH) Teekhage            4      44     0.09   0      2      M1A1 THOMPSON(3) (WTHr) Wikstone(1)        (WTH) Sgt. Rico(5)        01:31:42
+#64    (WTHr) Wikstone           3      11     0.27   1      1      MP40(3)          (WTH) Jimbo(1)            (WTH) FERGIE(2)           01:53:37
+#65    (WTH) HouseGangster       3      12     0.25   0      1      M1 GARAND(2)     (WTH) wobbegong21(1)      (WTH) Silverschakal(3)    01:31:55
+#66    (WTH) RipShank            2      3      0.67   1      2      HULL M1919 [Sherman M4A3E2(76)](2) (WTH) Peter(1)            (WTH) Caro(2)             01:31:29
+#67    (WTH) Liefen              2      12     0.17   0      2      MP40(2)          (WTH)albertalting(1)      (WTH) Jockey "Joky" (4)   01:31:14
+#68    (WTH) Pigbin              1      11     0.09   0      1      HULL MG34 [Sd.Kfz.181 Tiger 1](1) (WTH) ReformedGamer(1)    (WTH) MARIO(3)            01:31:55
+#69    (WTH) Filtertip           1      18     0.06   1      1      GEWEHR 43(1)     (WTH) Xcessive(1)         (WTH) imolol(3)           01:31:44
+#70    None                      0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:31:55
+#71    (WTH) TheAmenai           0      0      0.0    0      0      None(0)          None(0)                   None(0)                   03:01:32
+#72    ✪ (WTH) Hakubus           0      3      0.0    0      0      None(0)          None(0)                   (WTH) Caro(2)             01:30:43
+#73    (WTH) KimDamZ             0      4      0.0    0      0      None(0)          None(0)                   (WTH) Jockey "Joky" (1)   01:30:32
+#74    (WTH) El Conveyor         0      13     0.0    1      0      None(0)          🆁(WTH)Capt Benfield(1)    (WTH) Jockey "Joky" (3)   01:31:55

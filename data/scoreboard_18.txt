@@ -1,0 +1,100 @@
+RANK   NAME                      KILLS  DEATHS K/D    TKS    STREAK WEAPON           VICTIM                    NEMESIS                   PLAYTIME
+#1     (WTH) Sgt. Rico           102    34     3.0    0      17     Garand(83)       🆁 (WTH) Frazzle(7)        //grillatactics(4)        01:31:24
+#2     [82AD] Thorpie            77     31     2.48   0      11     Garand(76)       (WTH) Jimbo(8)            ✪ (WTH) Beard(2)          01:31:24
+#3     (WTH) ReformedGamer       75     34     2.21   4      10     STG44(74)        [PBS] Eugène(5)           //HammerTyme(3)           01:31:23
+#4     (WTH) tørfisk             67     32     2.09   4      14     G43(38)          (WTH) pizzawithaW(5)      (WTH) pizzawithaW(4)      01:30:56
+#5     (WTH) Duba                64     34     1.88   0      9      G43(51)          (WTHr) Khasar(11)         (WTH) MEvans(4)           01:30:00
+#6     ✪ (WTH) Beard             61     7      8.71   0      24     Tank/Arty(61)    //HammerTyme(4)           [82AD] Optical(2)         01:31:01
+#7     [82AD] Spearhead          57     38     1.5    0      6      STG44(39)        (WTH) Nekol(5)            (WTH) Wild Bill(3)        01:31:24
+#8     (WTH) Xcessive            56     37     1.51   0      11     Garand(54)       (WTH) Sajked(5)           [82AD] Spearhead(2)       01:31:24
+#9     🆂 (WTH) JagdGG            55     0      0.0    2      55     Tank/Arty(55)    (WTHr) Nomad(4)           None(0)                   01:30:49
+#10    (WTH) Wild Bill           55     39     1.41   2      7      M1918A2_BAR(27)  (WTH) MEAT TITAN(5)       (WTH) MEAT TITAN(5)       01:31:03
+#11    (WTH) Jockey "Joky"       54     36     1.5    0      7      STG44(51)        [82AD] bee(5)             [82AD] Thorpie(5)         01:31:01
+#12    //0z`                     52     22     2.36   0      11     Garand(41)       //Sneaky(5)               [DKB] Mok(3)              01:31:17
+#13    (WTH) Oskar               49     29     1.69   0      7      G43(49)          //HammerTyme(6)           (WTH) Sgt. Rico(4)        00:59:57
+#14    (WTH) Rakuen              49     35     1.4    0      10     MG42(37)         (WTHr) ★Asy👽Lium ツ (4)    (WTH) Sgt. Rico(6)        01:31:02
+#15    (WTH) Satchel             48     33     1.45   0      20     Garand(45)       (WTH)albertalting(8)      (WTH) MEAT TITAN(4)       01:30:14
+#16    (WTH) Froontan            47     32     1.47   0      6      MP40(40)         (WTH) Sgt. Rico(3)        🆁(WTH)Capt Benfield(3)    01:31:24
+#17    🆁(WTH)Capt Benfield       46     29     1.59   0      6      Garand(43)       (WTH) Abusify(4)          [82AD] Spearhead(5)       01:31:24
+#18    (WTH) MEAT TITAN          46     37     1.24   1      8      G43(30)          [WTH] Shukle(5)           (WTH) Sgt. Rico(6)        01:31:16
+#19    (WTH) FERGIE              43     0      0.0    11     43     Tank/Arty(43)    🆁 (WTH) Chronic(4)        None(0)                   01:31:24
+#20    (WTH) Flash_AUT           43     28     1.54   1      9      Kar98(32)        (WTH) Peter(4)            (WTH) Sgt. Rico(4)        01:30:46
+#21    [82AD] Optical            43     29     1.48   0      7      Garand(33)       (WTH)albertalting(5)      (WTH) Toni(2)             01:31:24
+#22    [82AD] Alfy               43     36     1.19   0      7      Garand(22)       (WTH) Kritz (QC)(4)       🆂 (WTH) JagdGG(4)         01:31:24
+#23    (WTH) Gates               43     37     1.16   0      6      Garand(40)       (WTH) nev :)(4)           (WTH) Kritz (QC)(4)       01:31:24
+#24    (WTH) Nekol               43     42     1.02   0      5      Garand(38)       //grillatactics(3)        [82AD] Spearhead(5)       01:31:24
+#25    //grillatactics           42     33     1.27   0      4      G43(19)          (WTH) Sgt. Rico(4)        🆁(WTH)Capt Benfield(4)    01:31:02
+#26    [82AD] Ghost^Recon        41     32     1.28   0      5      Garand(40)       (WTH) Kritz (QC)(4)       (WTHr) Doodlebugs(4)      01:29:49
+#27    🆁 (WTH) Frazzle           39     32     1.22   0      8      MP40(16)         (WTH) GodFella(5)         (WTH) Sgt. Rico(7)        01:31:24
+#28    [WTH]Dúne                 39     39     1.0    0      5      Garand(38)       (WTHr) Odaal(4)           [WTH] Madengineer251(5)   01:30:47
+#29    //OpeGoblin               38     34     1.12   0      7      STG44(34)        (WTHr) Nomad(3)           (WTH) Xcessive(4)         01:31:04
+#30    //TheProkage              37     31     1.19   0      13     Garand(35)       //Jinjer(4)               (WTH) Rakuen(3)           01:31:24
+#31    [DKB] Mok                 36     36     1.0    1      8      MP40(16)         //0z`(3)                  🆁(WTH)Capt Benfield(4)    00:59:08
+#32    (WTH) Trotche             36     37     0.97   0      5      Garand(26)       (WTH) nev :)(4)           (WTH) Rakuen(4)           01:13:04
+#33    (WTH) pizzawithaW         36     39     0.92   1      5      TrenchGun(19)    (WTH) Curious George(5)   (WTHr) Doodlebugs(6)      01:30:41
+#34    (WTH) Silverschakal       36     45     0.8    0      3      MP40(27)         (WTH) GodFella(3)         (WTH) Sgt. Rico(4)        01:31:24
+#35    (WTH) GodFella            36     47     0.77   0      3      Garand(35)       (WTH) tørfisk(3)          🆁 (WTH) Frazzle(5)        01:30:56
+#36    (WTHr) Doodlebugs         35     29     1.21   0      4      MP40(35)         (WTH) pizzawithaW(6)      //0z`(2)                  00:59:51
+#37    [WTH] Shukle              35     34     1.03   0      5      Garand(35)       //grillatactics(3)        (WTH) MEAT TITAN(5)       01:31:24
+#38    (WTH) MEvans              35     38     0.92   1      8      Garand(32)       (WTH) Duba(4)             (WTH) tørfisk(3)          01:31:20
+#39    //muckSnapper             34     30     1.13   0      7      G43(34)          (WTHr) ★Asy👽Lium ツ (3)    (WTH) Xcessive(5)         01:31:24
+#40    //HammerTyme              34     39     0.87   1      4      Garand(15)       (WTH) Pumpkin™(4)         (WTH) Oskar(6)            01:31:24
+#41    (WTH) Pumpkin™            33     33     1.0    1      7      Kar98(26)        (WTH) BatArme(3)          //HammerTyme(4)           01:30:58
+#42    (WTH) Attila              32     24     1.33   0      7      Garand(30)       [82AD]Crowdog(3)          [82AD] Spearhead(4)       01:30:09
+#43    (WTH) Abusify             31     20     1.55   0      10     FG42(16)         (WTH) Filtertip(3)        🆁(WTH)Capt Benfield(4)    01:30:43
+#44    (WTH) Kritz (QC)          31     38     0.82   0      8      STG44(26)        (WTH) Gates(4)            [82AD] Thorpie(5)         01:31:18
+#45    (WTH) MARIO               30     8      3.75   0      9      Tank/Arty(30)    (WTH) El Conveyor(4)      ✪ (WTH) Beard(4)          01:30:49
+#46    (WTH) Curious George      29     35     0.83   1      6      G43(29)          (WTH) Attila(3)           (WTH) pizzawithaW(5)      01:30:54
+#47    (WTH) GaniBoi             29     35     0.83   0      5      Thompson(18)     (WTH) nev :)(6)           (WTHr) Odaal(3)           01:30:47
+#48    (WTH) Jestt600            29     38     0.76   0      5      Garand(29)       [82AD] Kolstad(3)         [82AD] Myrk-(4)           01:31:24
+#49    //Pint Huffinton          29     40     0.72   3      5      Thompson(21)     //Jinjer(4)               //Jinjer(5)               01:31:24
+#50    //Jinjer                  29     42     0.69   0      4      STG44(13)        //Pint Huffinton(5)       //TheProkage(4)           00:59:07
+#51    (WTH) CJT ♢               28     21     1.33   0      6      Garand(23)       [82AD] Kolstad(3)         [82AD] Kolstad(3)         02:34:57
+#52    (WTH) Zippo               27     32     0.84   0      4      M1918A2_BAR(13)  //Sneaky(3)               (WTH) Oskar(3)            01:31:24
+#53    🆁 (WTH) Chronic           27     34     0.79   0      5      G43(24)          (WTH) Nekol(4)            (WTH) FERGIE(4)           01:31:24
+#54    (WTH) Sajked              27     36     0.75   0      4      MG42(14)         [82AD] Alfy(3)            (WTH) Xcessive(5)         01:31:07
+#55    [82AD] KrisKarso          25     23     1.09   0      7      Garand(23)       //OpeGoblin(2)            (WTH) Jimbo(2)            01:26:22
+#56    (WTHr) ★Asy👽Lium ツ        25     31     0.81   0      4      Garand(15)       //OpeGoblin(2)            (WTH) Rakuen(4)           01:30:16
+#57    [PBS] Eugène              25     40     0.62   0      5      Thompson(13)     (WTH) ReformedGamer(3)    (WTH) ReformedGamer(5)    01:31:06
+#58    //Jables                  25     40     0.62   1      3      Garand(23)       //Jinjer(3)               (WTH) Duba(4)             01:31:24
+#59    //Sneaky                  24     31     0.77   0      4      G43(19)          (WTH) Wapajama(4)         //0z`(5)                  01:30:48
+#60    (WTH) nev :)              23     37     0.62   0      4      G43(21)          (WTH) GodFella(3)         (WTH) GaniBoi(6)          01:31:24
+#61    (WTH) Jimbo               23     42     0.55   0      4      STG44(23)        (WTH) imolol(3)           [82AD] Thorpie(8)         01:31:24
+#62    (WTH) Caro                22     9      2.44   1      8      Tank/Arty(22)    (WTH) TheAmenai(5)        (WTH) MARIO(4)            01:30:41
+#63    (WTH) imolol              22     21     1.05   1      7      Thompson(22)     (WTH) Jimbo(3)            (WTH) Jimbo(3)            01:30:54
+#64    [82AD] bee                22     38     0.58   1      3      Garand(20)       (WTHr) TheSoggyHells(3)   (WTH) Jockey "Joky" (5)   01:31:22
+#65    (WTHr) Odaal              22     46     0.48   0      3      MP40(17)         (WTH) GaniBoi(3)          [WTH]Dúne(4)              01:31:24
+#66    [82AD] Kolstad            21     39     0.54   0      3      G43(10)          (WTH) CJT ♢(3)            (WTH) CJT ♢(3)            01:31:24
+#67    [82AD] Vidar              19     29     0.66   0      4      STG44(16)        (WTH) pizzawithaW(3)      (WTH) Sgt. Rico(4)        01:31:24
+#68    (WTHr) TheSoggyHells      19     33     0.58   0      4      G43(9)           (WTH) GodFella(3)         (WTH) Sgt. Rico(4)        01:31:24
+#69    (WTH) Gwyn11              18     47     0.38   0      5      MP40(15)         (WTH) Wild Bill(2)        [82AD] Thorpie(4)         01:31:24
+#70    (WTH) dp                  17     19     0.89   0      5      M1903(14)        (WTH)Yarrick(3)           🆁 (WTH) Chronic(3)        01:30:36
+#71    [82AD]Crowdog             17     46     0.37   0      4      MG34(13)         (WTHr) Khasar(3)          🆁(WTH)Capt Benfield(4)    01:31:14
+#72    (WTH) Teekhage            16     24     0.67   1      3      MP40(12)         [82AD] bee(2)             [82AD] Ghost^Recon(4)     01:31:15
+#73    (WTH)LtSchaffer75         16     31     0.52   0      4      Garand(16)       (WTH) ReformedGamer(3)    (WTH) Duba(5)             01:30:40
+#74    (WTH) TheAmenai           15     13     1.15   0      5      Tank/Arty(15)    (WTH) HouseGangster(2)    (WTH) Caro(5)             01:30:54
+#75    (WTH) Hans Guhr           15     32     0.47   0      7      MP40(14)         [PBS] Eugène(3)           (WTH) Sgt. Rico(3)        01:31:24
+#76    [82AD] Myrk-              15     33     0.45   0      2      MP40(15)         (WTH) Jestt600(4)         (WTH) MEvans(3)           01:31:00
+#77    (WTH)SGT. Stag            14     37     0.38   0      3      MP40(13)         [82AD] Ghost^Recon(2)     [82AD] Thorpie(7)         01:31:24
+#78    (WTHr) Khasar             14     48     0.29   0      2      Garand(9)        (WTH) tørfisk(2)          (WTH) Duba(11)            01:29:44
+#79    (WTH) Peter               13     34     0.38   0      4      Garand(8)        (WTH) El Conveyor(2)      (WTH) Flash_AUT(4)        01:31:01
+#80    [WTH] Madengineer251      13     35     0.37   0      7      G43(8)           [WTH]Dúne(5)              [82AD] Thorpie(4)         01:31:22
+#81    (WTH) Wapajama            12     19     0.63   0      3      Tank/Arty(8)     (WTH) nev :)(2)           //Sneaky(4)               01:31:24
+#82    (WTH)albertalting         12     54     0.22   0      3      G43(8)           //Jables(3)               (WTH) Satchel(8)          01:30:50
+#83    (WTHr) Woute              11     21     0.52   0      4      Garand(11)       //Sneaky(3)               (WTH) ReformedGamer(3)    01:31:24
+#84    (WTH) Toni                11     31     0.35   0      1      MP40(8)          (WTH) Nekol(2)            [82AD] Thorpie(4)         01:31:24
+#85    (WTH) Dry brush           10     24     0.42   0      3      SMG_M3_GreaseGun(10) [82AD] Myrk-(2)           (WTH) Flash_AUT(3)        01:27:05
+#86    (WTH) ttiima              9      25     0.36   0      2      Garand(5)        (WTH) Jimbo(1)            🆁 (WTH) Chronic(3)        00:48:51
+#87    (WTHr) Combobulator       9      39     0.23   0      3      Garand(8)        (WTH)SGT. Stag(2)         (WTH) MEAT TITAN(4)       01:31:24
+#88    (WTHr) Nomad              9      43     0.21   0      3      Thompson(7)      (WTHr) Odaal(2)           (WTH) tørfisk(5)          00:00:11
+#89    (WTH) Kenty               8      17     0.47   2      4      G43(5)           (WTH) Anu Bys(2)          (WTH) Trotche(2)          01:31:24
+#90    (WTH) RipShank            6      7      0.86   0      4      Tank/Arty(6)     (WTH) Wapajama(2)         //0z`(2)                  01:31:04
+#91    (WTH)Yarrick              6      13     0.46   0      2      MP40(4)          (WTH) imolol(2)           (WTH) dp(3)               01:31:24
+#92    (WTH) Filtertip           6      19     0.32   0      2      Garand(6)        (WTHr) Doodlebugs(2)      (WTH) Abusify(3)          01:31:24
+#93    (WTH) Anu Bys             6      35     0.17   0      2      M1_Carbine(4)    //grillatactics(1)        🆂 (WTH) JagdGG(3)         01:31:24
+#94    (WTH) El Conveyor         3      10     0.3    0      1      Tank/Arty(3)     (WTH) Anu Bys(1)          (WTH) MARIO(4)            01:30:18
+#95    (WTH) Liefen              1      8      0.12   0      1      Tank/Arty(1)     (WTH)albertalting(1)      ✪ (WTH) Beard(4)          01:30:55
+#96    (WTH) HouseGangster       1      8      0.12   0      1      G43(1)           //TheProkage(1)           (WTH) TheAmenai(2)        01:31:24
+#97    ✪ (WTH) Hakubus           0      7      0.0    0      0      None(0)          None(0)                   [82AD] Optical(2)         01:31:11
+#98    (WTH) Pigbin              0      9      0.0    0      0      None(0)          None(0)                   (WTH) MARIO(4)            01:30:46
+#99    (WTH) BatArme             0      11     0.0    1      0      None(0)          (WTH) GaniBoi(1)          ✪ (WTH) Beard(4)          01:30:52

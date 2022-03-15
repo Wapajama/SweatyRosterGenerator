@@ -1,0 +1,39 @@
+RANK   NAME                      KILLS  DEATHS K/D    TKS    STREAK WEAPON           VICTIM                    NEMESIS                   PLAYTIME
+#1     (WTH) Jockey "Joky"       99     24     4.12   0      14     Garand(92)       (WTH) Toni(13)            (WTH) Trotche(4)          01:30:51
+#2     (WTH) Duba                92     34     2.71   0      10     Garand(90)       (WTH) VikkoxX(10)         (WTH) Oskar(4)            01:30:40
+#3     (WTH)Locknah☠             78     35     2.23   0      9      Garand(72)       (WTH) GodFella(12)        (WTH) GodFella(6)         01:31:09
+#4     (WTH) Mosh                73     49     1.49   0      8      Garand(69)       (WTH) ttiima(11)          ✪ (WTH) Hakubus(5)        01:31:21
+#5     (WTH) Xcessive            65     41     1.59   0      9      Garand(61)       (WTHr) Wzora(8)           (WTH) Oskar(4)            01:30:47
+#6     (WTH) Oskar               65     42     1.55   0      7      G43(65)          (WTH) BioHaXard(8)        (WTH) Duba(6)             01:31:55
+#7     (WTH) mcpimmle            57     39     1.46   0      8      G43(29)          (WTH)LtSchaffer75(6)      (WTH)Locknah☠(5)          01:31:55
+#8     🆁 (WTH) Chronic           52     37     1.41   1      8      Garand(39)       (WTH) Oskar(6)            (WTH) Trotche(5)          01:31:55
+#9     [WTHr]Dúne                51     42     1.21   0      7      Garand(49)       (WTH) Kenty(8)            (WTH) mcpimmle(4)         01:31:03
+#10    (WTH) Trotche             50     45     1.11   1      7      G43(39)          🧿 (WTH) Fuzz(7)           (WTH) Jockey "Joky" (7)   01:30:52
+#11    (WTH) MEvans              47     26     1.81   0      7      Garand(44)       (WTH) pizzawithaW(7)      (WTH) mcpimmle(4)         01:31:55
+#12    (WTH) pizzawithaW         47     58     0.81   0      9      STG44(36)        (WTHr) Voyak(6)           (WTH)Locknah☠(9)          01:30:42
+#13    (WTH) GodFella            47     60     0.78   0      5      G43(47)          (WTH)Locknah☠(6)          (WTH)Locknah☠(12)         01:30:44
+#14    (WTH) VikkoxX             45     52     0.87   0      6      G43(36)          [WTH] Eurynomous(7)       (WTH) Duba(10)            01:31:33
+#15    (WTH) Blank               43     31     1.39   0      7      Garand(40)       [WTHr] SGT SPITFIRE(5)    (WTH) Oskar(6)            01:30:12
+#16    [WTH] Eurynomous          43     50     0.86   0      9      M1919(41)        (WTH)albertalting(5)      (WTH) VikkoxX(7)          01:31:55
+#17    ✪ (WTH) Beard             41     7      5.86   2      19     Tank/Arty(40)    (WTH) BioHaXard(4)        (WTH) Jockey "Joky" (2)   01:31:00
+#18    (WTH) Flash_AUT           36     26     1.38   0      8      Kar98(31)        🆁 (WTH) Chronic(4)        (WTH) Xcessive(5)         01:30:42
+#19    🆁(WTH)Capt Benfield       35     30     1.17   0      3      Garand(32)       (WTH) ttiima(7)           (WTH) GodFella(5)         01:31:55
+#20    (WTHr) Voyak              35     41     0.85   0      8      Garand(21)       (WTH)albertalting(4)      (WTH) pizzawithaW(6)      01:30:55
+#21    (WTH) Jestt600            31     50     0.62   0      5      G43(31)          (WTH) Mosh(5)             (WTH) Xcessive(7)         01:31:12
+#22    (WTH) BioHaXard           29     33     0.88   0      5      Garand(12)       (WTH) mcpimmle(4)         (WTH) Oskar(8)            03:00:41
+#23    (WTH)AFK                  29     47     0.62   3      6      G43(17)          [WTH] Eurynomous(6)       (WTH) Jockey "Joky" (12)  01:31:55
+#24    (WTH) ttiima              28     61     0.46   0      4      G43(9)           (WTH) Blank(3)            (WTH) Mosh(11)            03:00:50
+#25    (WTH) Cap'n Ducky         27     40     0.68   2      3      Garand(17)       (WTH) VikkoxX(4)          (WTH) pizzawithaW(4)      01:28:19
+#26    ✪ (WTH) Hakubus           25     6      4.17   2      10     Tank/Arty(25)    (WTH) Mosh(5)             (WTH) Jockey "Joky" (2)   01:30:47
+#27    (WTHr) Wzora              23     47     0.49   0      3      STG44(21)        [WTHr]Dúne(4)             (WTH) Jockey "Joky" (8)   01:31:55
+#28    🧿 (WTH) Fuzz              21     37     0.57   0      5      Garand(20)       (WTH) GodFella(4)         (WTH) Trotche(7)          01:29:47
+#29    (WTH) BuschBrunzer        21     38     0.55   0      4      G43(20)          (WTHr) Voyak(4)           (WTH) Jockey "Joky" (5)   01:31:55
+#30    (WTH)albertalting         20     51     0.39   0      3      MG42(17)         (WTHr) LogicSauce(4)      (WTH) Xcessive(7)         01:31:36
+#31    (WTH) Wapajama            17     35     0.49   0      2      MP40(10)         (WTH)LtSchaffer75(4)      (WTH) Mosh(5)             01:24:53
+#32    (WTH) Kenty               16     44     0.36   0      5      G43(14)          🆁(WTH)Capt Benfield(2)    [WTHr]Dúne(8)             01:30:45
+#33    (WTH) Toni                15     39     0.38   1      4      MG42(13)         (WTH) Mosh(4)             (WTH) Jockey "Joky" (13)  01:31:02
+#34    (WTHr) LogicSauce         13     28     0.46   0      4      Thompson(11)     (WTH) GodFella(3)         (WTH) mcpimmle(5)         01:31:00
+#35    [WTH] Turbo Torben        13     28     0.46   0      2      MP40(4)          (WTH) Duba(3)             🆁 (WTH) Chronic(3)        02:57:01
+#36    (WTH)LtSchaffer75         10     45     0.22   0      4      SMG_M3_GreaseGun(6) (WTH) Trotche(2)          (WTH) VikkoxX(6)          01:30:40
+#37    [WTHr] SGT SPITFIRE       8      54     0.15   0      2      STG44(4)         (WTH) Xcessive(2)         (WTH) Duba(9)             01:30:54
+#38    (WTHr) Peter              0      7      0.0    0      0      None(0)          None(0)                   (WTH) Trotche(2)          01:45:47

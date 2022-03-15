@@ -1,0 +1,38 @@
+RANK   NAME                      KILLS  DEATHS K/D    TKS    STREAK WEAPON           VICTIM                    NEMESIS                   PLAYTIME
+#1     (WTH)Locknah☠             72     32     2.25   0      8      STG44(71)        (WTH) Jockey "Joky" (8)   (WTH) Jockey "Joky" (7)   01:31:43
+#2     (WTH) Duba                60     33     1.82   0      6      Garand(42)       🆁 (WTH) Chronic(7)        (WTH)Locknah☠(5)          03:01:03
+#3     (WTH)The_Bertus           43     29     1.48   0      9      G43(39)          [WTH] Shukle(4)           (WTH) GodFella(5)         01:31:43
+#4     (WTH) Jockey "Joky"       42     30     1.4    5      11     SMG_M3_GreaseGun(33) (WTH)Locknah☠(7)          (WTH)Locknah☠(8)          01:31:02
+#5     (WTH) MEvans              42     35     1.2    2      7      STG44(28)        (WTH) Oskar(4)            ☯ WTH Skytec | Dakur(5)   01:31:43
+#6     (WTH) Curious George      40     34     1.18   0      5      STG44(23)        (WTH)LtSchaffer75(5)      (WTH) GodFella(9)         01:31:13
+#7     (WTH) Oskar               39     40     0.97   0      3      Garand(39)       (WTH) Curious George(4)   (WTH)Locknah☠(5)          01:30:57
+#8     (WTH) GodFella            38     48     0.79   0      5      Garand(37)       (WTH) Curious George(9)   (WTH)Locknah☠(8)          01:30:53
+#9     (WTH) pizzawithaW         37     39     0.95   0      5      STG44(35)        ☯ WTH Skytec | Dakur(8)   (WTH) BuschBrunzer(7)     01:30:46
+#10    (WTH) CJT ♢               35     25     1.4    0      16     Garand(28)       🧿 (WTH) Fuzz(7)           (WTH) VikkoxX(5)          01:30:56
+#11    ☯ WTH Skytec | Dakur      34     27     1.26   1      9      Garand(34)       (WTH) VikkoxX(7)          (WTH) pizzawithaW(8)      01:31:03
+#12    (WTH) Attila              33     25     1.32   0      5      G43(33)          (WTH)Deuys(5)             (WTH) Flash_AUT(4)        01:31:16
+#13    (WTH) BuschBrunzer        33     36     0.92   0      5      Garand(29)       (WTH) pizzawithaW(7)      (WTH) pizzawithaW(6)      01:31:43
+#14    (WTH) VikkoxX             33     37     0.89   0      4      G43(16)          (WTH) CJT ♢(5)            ☯ WTH Skytec | Dakur(7)   01:30:57
+#15    (WTH) Flash_AUT           32     29     1.1    0      8      Garand(28)       (WTH) Attila(4)           (WTH) Nekol(6)            01:30:54
+#16    (WTH) Nekol               31     35     0.89   0      6      MG42(17)         (WTH) Flash_AUT(6)        (WTH) BuschBrunzer(6)     01:29:54
+#17    🆁 (WTH) Chronic           31     39     0.79   0      5      MP40(17)         (WTH) Jestt600(6)         (WTH) Duba(7)             01:31:43
+#18    [WTH] Shukle              27     29     0.93   1      4      Garand(25)       (WTH)Locknah☠(5)          (WTH)The_Bertus(4)        01:30:07
+#19    (WTH) Jestt600            27     39     0.69   0      4      Garand(26)       (WTH) Nekol(4)            🆁 (WTH) Chronic(6)        01:31:43
+#20    [WTHr]Dúne                26     38     0.68   0      2      Garand(22)       (WTH) Gates(5)            (WTH)Locknah☠(6)          03:00:13
+#21    (WTH) Gates               24     35     0.69   2      4      G43(24)          (WTH) BuschBrunzer(4)     [WTHr]Dúne(5)             01:30:57
+#22    🧿 (WTH) Fuzz              22     33     0.67   0      4      G43(22)          (WTH)LtSchaffer75(4)      (WTH) CJT ♢(7)            01:30:58
+#23    [WTH] Turbo Torben        21     16     1.31   0      4      STG44(20)        [WTHr]Dúne(4)             [WTH] Shukle(3)           02:26:59
+#24    (WTH) BioHaXard           21     20     1.05   0      5      Kar98(14)        (WTH) Toni(4)             (WTH) Jockey "Joky" (3)   01:31:06
+#25    (WTH)Khan Levski          21     30     0.7    0      5      Thompson(15)     (WTH) Curious George(4)   (WTH) MEvans(3)           01:30:54
+#26    (WTH)Deuys                21     31     0.68   0      4      Thompson(19)     (WTH) VikkoxX(3)          (WTH) Attila(5)           02:53:07
+#27    (WTH) Cap'n Ducky         19     18     1.06   0      4      Garand(15)       🧿 (WTH) Fuzz(3)           (WTH) Curious George(3)   00:57:43
+#28    ✪ (WTH) Beard             18     7      2.57   3      7      Tank/Arty(15)    (WTH) GodFella(3)         🆁 (WTH) Chronic(1)        01:30:55
+#29    🆁(WTH)Capt Benfield       16     12     1.33   1      3      G43(14)          (WTH) Flash_AUT(3)        (WTH) Oskar(3)            01:31:43
+#30    (WTH)AFK                  16     32     0.5    0      4      G43(7)           (WTH)Khan Levski(3)       (WTH) Duba(7)             01:30:48
+#31    (WTH) wobbegong21         12     17     0.71   0      4      MP40(12)         (WTH)LtSchaffer75(3)      (WTH) GodFella(3)         02:15:04
+#32    ✪ (WTH) Hakubus           11     7      1.57   2      5      Tank/Arty(9)     (WTH) pizzawithaW(2)      (WTH) MEvans(2)           01:30:50
+#33    (WTH)LtSchaffer75         11     34     0.32   0      3      Garand(10)       (WTH) VikkoxX(2)          (WTH)Locknah☠(6)          01:30:48
+#34    (WTH) Silkhands           9      15     0.6    0      3      Garand(9)        (WTH) VikkoxX(2)          (WTH) MEvans(2)           02:32:16
+#35    (WTH) Toni                6      24     0.25   0      1      Garand(5)        (WTH)Locknah☠(1)          (WTH)Locknah☠(5)          01:30:53
+#36    (WTH) Sosaille            2      10     0.2    0      1      M1918A2_BAR(2)   (WTH) Gates(1)            (WTH) Curious George(2)   02:07:04
+#37    (WTH) Ghillie74           1      3      0.33   0      1      Kar98(1)         (WTH)LtSchaffer75(1)      (WTH) GodFella(2)         01:43:02

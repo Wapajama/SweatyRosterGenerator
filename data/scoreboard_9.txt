@@ -1,0 +1,126 @@
+RANK   NAME                      KILLS  DEATHS K/D    TKS    STREAK WEAPON           VICTIM                    NEMESIS                   PLAYTIME
+#1     (WTH) FERGIE              139    2      69.5   3      67     Tank/Arty(139)   Yak |HG(11)               Runkkuhirvi(1)            01:31:52
+#2     (WTH) VikkoxX             130    0      0.0    20     130    Tank/Arty(129)   (WTH) dp(11)              None(0)                   01:31:24
+#3     (WTH) ReformedGamer       82     54     1.52   1      10     STG44(37)        (WTH) Peter(7)            🆁(WTH)Capt Benfield(6)    01:31:52
+#4     (WTH) Satchel             72     40     1.8    0      9      G43(69)          (WTH) pizzawithaW(6)      [PBS]Senpuu(7)            01:30:29
+#5     (WTH) Curious George      68     30     2.27   0      10     Rifle_Mosin_M38(62) (WTH) Wild Bill(6)        (WTH) Abusify(6)          01:31:52
+#6     🆁 (WTH) Chronic           60     34     1.76   0      8      Rifle_Mosin_M9130(58) (WTH) Jestt600(5)         garthnix(6)               01:31:52
+#7     (WTH) Jockey "Joky"       58     35     1.66   0      7      G43(53)          Smelly Panda(5)           🆁 (WTH) Chronic(4)        01:30:54
+#8     (WTH) Blank               57     43     1.33   0      10     Rifle_SVT40(57)  vendrup0105(5)            (WTH) VikkoxX(4)          01:31:52
+#9     (WTH) ttiima              56     39     1.44   0      7      Kar98(43)        [PBSr] whiskeypapi(4)     (WTH) FERGIE(4)           01:30:49
+#10    (WTH) dp                  56     43     1.3    0      7      Rifle_SVT40(56)  (WTH) Crooked(6)          (WTH) VikkoxX(11)         01:30:28
+#11    🆁(WTH)Capt Benfield       55     48     1.15   0      8      Rifle_Mosin_M38(52) (WTH) ReformedGamer(6)    (WTH) VikkoxX(9)          01:31:52
+#12    (WTH) Flash_AUT           54     36     1.5    0      7      Rifle_Mosin_M9130(48) 🆂 (WTH) JagdGG(5)         (WTH) VikkoxX(5)          01:31:35
+#13    (WTH) Wild Bill           54     52     1.04   1      11     G43(44)          🆁(WTH)Capt Benfield(4)    (WTH) Curious George(6)   01:31:52
+#14    (WTH) Abusify             52     25     2.08   0      10     Kar98_Sniper(51) (WTH) Curious George(6)   (WTH) Curious George(3)   01:31:52
+#15    (WTH) MEvans              48     21     2.29   0      8      Rifle_Mosin_M9130(40) (WTH) Xcessive(5)         🆁 (WTH) Frazzle(7)        01:31:52
+#16    (WTH)FriskYPanda®         48     42     1.14   0      7      MP40(42)         (WTH)ScottishStag(5)      🆁 (WTH) Chronic(5)        01:31:00
+#17    (WTH) Wapajama            46     18     2.56   1      13     MG42(44)         Tinkle Tinklington(4)     (WTH) Trotche(3)          01:30:24
+#18    [PBS]Senpuu               44     29     1.52   0      8      Rifle_Mosin_M38(30) (WTH) Satchel(7)          (WTH) Satchel(3)          01:31:22
+#19    ✪ [WTH] Pengwynn          43     45     0.96   0      3      MP40(38)         (WTH) Kenty(4)            (WTH) Blank(5)            01:30:55
+#20    [PBSr] 1 Horst            41     9      4.56   1      16     Tank/Arty(41)    [WTH]Dúne(6)              (WTH) MARIO(4)            01:31:52
+#21    FLX || Proximo            40     7      5.71   5      13     Tank/Arty(34)    (WTH) imolol(4)           (WTH) Caro(2)             01:31:00
+#22    (WTH) Cap'n Ducky         40     33     1.21   4      7      Tank/Arty(27)    TekniikanIhmelapsi(3)     TekniikanIhmelapsi(3)     01:31:52
+#23    (WTH) Crooked             40     43     0.93   2      9      G43(25)          (WTH) Trotche(4)          (WTH) dp(6)               01:31:52
+#24    (WTH) Xcessive            39     26     1.5    1      8      G43(22)          [EASY] Ragnar Lothbr(4)   (WTH) MEvans(5)           01:31:52
+#25    (WTH) Gates               39     43     0.91   1      6      Rifle_SVT40(34)  (WTH) ttiima(3)           (WTH) VikkoxX(5)          01:31:52
+#26    (WTH) GodFella            37     37     1.0    0      6      Rifle_SVT40(34)  (WTH) ReformedGamer(5)    (WTH) VikkoxX(5)          01:31:30
+#27    🆁 (WTH) Frazzle           34     27     1.26   0      12     G43(32)          (WTH) MEvans(7)           (WTH) Flash_AUT(3)        01:31:41
+#28    Runkkuhirvi               34     31     1.1    0      13     Kar98_Sniper(31) Tinkle Tinklington(5)     (WTH) Curious George(3)   01:30:26
+#29    (WTH) Jestt600            34     35     0.97   0      6      G43(32)          🆁 (WTH) Chronic(4)        🆁 (WTH) Chronic(5)        01:31:00
+#30    (WTH) imolol              33     42     0.79   0      4      Rifle_SVT40(30)  🆂 (WTH) JagdGG(6)         [WTH]Dúne(5)              01:31:23
+#31    (WTH) Trotche             32     32     1.0    0      4      Rifle_SVT40(32)  (WTH) Wapajama(3)         (WTH)FriskYPanda®(4)      01:31:52
+#32    [WTH]Dúne                 32     38     0.84   0      7      Kar98(15)        (WTH) imolol(5)           [PBSr] 1 Horst(6)         01:31:52
+#33    (WTH)The_Bertus           31     10     3.1    0      9      MG42(30)         (WTH) Blank(3)            (WTH) Blank(2)            00:42:35
+#34    (WTH) Toni                29     32     0.91   0      7      Rifle_SVT40(15)  (WTHr) TeeKhage(3)        (WTH) ReformedGamer(3)    01:30:35
+#35    [EASY] Ragnar Lothbr      28     31     0.9    0      7      Rifle_Mosin_M38(20) [OC] Hajdi(3)             (WTH) VikkoxX(7)          01:30:30
+#36    (WTH) Nekol               27     24     1.12   0      6      G43(20)          (WTH)Ragga(4)             (WTH) dp(4)               01:07:08
+#37    (WTHr)Jeans               27     32     0.84   0      5      Rifle_Mosin_M38(21) Fear Gingers(2)           (WTH) Wapajama(3)         01:30:32
+#38    (WTH)saukti9              27     43     0.63   0      4      SMG_PPSH41(20)   (WTH) Wild Bill(4)        (WTH) VikkoxX(9)          01:23:11
+#39    (WTH) Attila              26     12     2.17   0      15     G43(26)          [PBS] Cato(4)             🆁 (WTH) Chronic(2)        01:30:30
+#40    (WTH)Ragga                26     46     0.57   0      6      Rifle_Mosin_M38(15) (WTH) ReformedGamer(3)    (WTH) VikkoxX(7)          01:31:45
+#41    🆂 (WTH) JagdGG            26     47     0.55   1      4      Kar98(14)        (WTH) imolol(4)           (WTH) imolol(6)           01:31:25
+#42    garthnix                  25     12     2.08   0      5      G43(25)          🆁 (WTH) Chronic(6)        (WTH) MEvans(3)           01:31:52
+#43    [PBS]Reinout              25     19     1.32   0      4      Rifle_SVT40(25)  (WTH) ttiima(2)           (WTH) Attila(3)           01:24:34
+#44    [PBS]Coombs               25     29     0.86   0      5      Rifle_Mosin_M9130(19) (WTH) Wild Bill(2)        (WTH) Attila(3)           01:30:36
+#45    (WTH) Pumpkin™            25     33     0.76   0      4      Kar98(13)        [PBSr] whiskeypapi(2)     Tinkle Tinklington(4)     01:30:57
+#46    Smelly Panda              25     36     0.69   1      7      Rifle_Mosin_M9130(16) (WTH) Jockey "Joky" (3)   (WTH) Jockey "Joky" (5)   01:30:23
+#47    (WTH)Sup                  25     43     0.58   0      4      G43(23)          (WTH) dp(3)               🆁(WTH)Capt Benfield(4)    01:30:46
+#48    TekniikanIhmelapsi        24     33     0.73   0      5      MP40(22)         (WTH) Cap'n Ducky(3)      (WTH) Curious George(5)   01:30:29
+#49    SeBigAsstian              24     41     0.59   0      5      Rifle_SVT40(16)  vendrup0105(4)            (WTH) Jockey "Joky" (4)   01:30:03
+#50    Mr Manager                23     24     0.96   0      6      SMG_PPSH41(21)   (WTH) ReformedGamer(3)    (WTH) Wild Bill(3)        01:13:53
+#51    [PBS]Heppz                23     37     0.62   0      10     SMG_PPSH41(16)   (WTH) Jestt600(4)         (WTH) VikkoxX(5)          01:31:25
+#52    (WTH) tørfisk             22     6      3.67   2      11     Tank/Arty(22)    FLX || 3L3CTR0(2)         (WTH) Crooked(1)          01:31:52
+#53    (WTH) Caro                22     8      2.75   1      7      Tank/Arty(22)    (WTH) Crooked(2)          (WTH) MARIO(2)            01:31:52
+#54    Tinkle Tinklington        22     41     0.54   0      5      Rifle_Mosin_M1891(16) (WTH) Pumpkin™(4)         Runkkuhirvi(5)            01:30:30
+#55    (WTH) MARIO               21     7      3.0    2      6      Tank/Arty(21)    [PBSr] 1 Horst(4)         [PBSr] 1 Horst(3)         01:30:43
+#56    (WTH) Infect              21     32     0.66   0      5      Rifle_Mosin_M9130(21) vendrup0105(4)            (WTH) VikkoxX(5)          01:30:37
+#57    [PBS] Cato                20     27     0.74   0      5      LMG_DP27(8)      (WTH) Wild Bill(4)        (WTH) ReformedGamer(4)    01:31:52
+#58    Jihadi Tom                20     29     0.69   0      7      MG42(12)         [PBS]Coombs(2)            (WTH) FERGIE(8)           01:27:42
+#59    [WTH] Eurynomous          20     32     0.62   1      5      G43(20)          (WTH) Trotche(2)          (WTH) FERGIE(7)           01:31:52
+#60    (WTHr)SkinDred            20     39     0.51   0      6      STG44(9)         (WTH) GodFella(2)         (WTH) Flash_AUT(4)        01:31:42
+#61    (WTH) pizzawithaW         18     22     0.82   0      3      Rifle_SVT40(18)  (WTH) ReformedGamer(2)    (WTH) Satchel(6)          01:30:24
+#62    (WTH)LtSchaffer75         18     27     0.67   0      6      Rifle_SVT40(10)  Runkkuhirvi(3)            (WTH) Abusify(4)          01:30:24
+#63    (WTH) Hans Guhr           18     31     0.58   0      3      MP40(18)         (WTH) Trotche(2)          (WTH) Trotche(3)          01:30:48
+#64    [PBSr] whiskeypapi        17     29     0.59   1      4      SMG_PPSH41(13)   (WTH)Sup(2)               (WTH) ttiima(4)           01:30:44
+#65    [OC] Hajdi                17     33     0.52   0      4      STG44(8)         [PBSr] whiskeypapi(2)     (WTH) FERGIE(6)           02:59:55
+#66    [PBS] LostViking          16     26     0.62   0      4      Rifle_SVT40(16)  ✪ [WTH] Pengwynn(3)       (WTH) VikkoxX(3)          01:30:33
+#67    (WTH)AFK                  16     27     0.59   0      3      SMG_PPSH41(7)    (WTH)Sup(2)               (WTH) ReformedGamer(4)    01:31:52
+#68    (WTH) Kenty               15     27     0.56   0      3      LMG_DP27(9)      (WTH) Satchel(3)          (WTH) ReformedGamer(4)    01:30:26
+#69    (WTHr) Wzora              15     33     0.45   1      3      SMG_PPSH41(14)   (WTH) Wild Bill(3)        (WTH) VikkoxX(5)          01:30:55
+#70    Ograkk                    14     29     0.48   0      3      Rifle_Mosin_M9130(12) FLX || Azimuth(2)         (WTH) Jockey "Joky" (4)   01:03:11
+#71    FLX || ThunderK           14     31     0.45   0      4      Kar98(12)        SeBigAsstian(2)           (WTH) dp(3)               01:30:43
+#72    (WTH)Yarrick              13     14     0.93   0      4      SMG_PPSH41(12)   (WTH) Jestt600(2)         🆁 (WTH) Frazzle(3)        01:31:52
+#73    FLX || SotiriPapageo      13     32     0.41   0      4      Kar98(8)         (WTH) Trotche(2)          (WTH) FERGIE(6)           01:31:52
+#74    (WTHr) TeeKhage           12     25     0.48   0      3      MG34(12)         (WTH) Blank(2)            🆁 (WTH) Chronic(4)        01:30:54
+#75    AllanM93                  11     31     0.35   1      3      STG44(11)        SeBigAsstian(3)           (WTH) FERGIE(10)          01:26:31
+#76    (WTHr) Dry brush          11     33     0.33   0      4      Rifle_Mosin_M9130(10) Yak |HG(2)                (WTH) VikkoxX(10)         01:31:52
+#77    Yak |HG                   11     35     0.31   0      3      Kar98(7)         🆁(WTH)Capt Benfield(1)    (WTH) FERGIE(11)          01:30:42
+#78    (WTH)ScottishStag         11     45     0.24   0      4      SMG_PPSH41(10)   (WTH) ReformedGamer(3)    (WTH) VikkoxX(11)         01:31:52
+#79    Fear Gingers              10     14     0.71   0      5      Kar98(9)         (WTH) Blank(2)            (WTH) Blank(4)            00:34:03
+#80    FLX || Scars              10     24     0.42   0      2      MG42(6)          [PBS]Reinout(2)           (WTH) FERGIE(4)           01:31:08
+#81    MrBlackMysterious         10     26     0.38   0      2      G43(4)           [PBS]Coombs(2)            (WTH) FERGIE(10)          01:13:13
+#82    vendrup0105               10     60     0.17   0      4      Tank/Arty(5)     (WTH) HouseGangster(2)    (WTH) FERGIE(8)           01:30:36
+#83    (WTH) Filtertip           9      26     0.35   0      2      SMG_PPSH41(9)    (WTH) ReformedGamer(3)    (WTH) ReformedGamer(4)    01:31:52
+#84    Chowhound                 8      13     0.62   0      3      Tank/Arty(4)     [PBS]Heppz(2)             (WTH) FERGIE(3)           02:29:05
+#85    (WTHr) aaaa🐍              7      8      0.88   0      7      G43(7)           (WTH) imolol(3)           (WTH)Yarrick(1)           01:04:59
+#86    rosejaiden99              7      11     0.64   0      4      Rifle_Mosin_M9130(6) (WTH) Hans Guhr(2)        (WTH) Abusify(2)          00:23:43
+#87    FLX || Azimuth            7      27     0.26   1      2      MG42(3)          (WTH) tørfisk(1)          (WTH) FERGIE(3)           01:31:32
+#88    TheSnilness_              6      26     0.23   0      1      SMG_PPSH41(5)    vendrup0105(1)            Runkkuhirvi(4)            00:57:33
+#89    (WTH) Taerg               6      30     0.2    0      1      G43(6)           (WTH) MEvans(1)           (WTH) Flash_AUT(4)        01:30:29
+#90    (WTH) Anu Bys             6      33     0.18   1      2      Tank/Arty(2)     (WTH) imolol(1)           (WTH) Blank(3)            01:30:48
+#91    K Boi                     5      3      1.67   0      4      Rifle_SVT40(5)   FLX || Azimuth(2)         TekniikanIhmelapsi(1)     00:23:55
+#92    FLX || 3L3CTR0            5      7      0.71   1      2      Tank/Arty(4)     [PBS]Reinout(1)           (WTH) tørfisk(2)          01:30:58
+#93    (WTH) Peter               5      20     0.25   0      2      SMG_PPSH41(4)    AllanM93(2)               (WTH) ReformedGamer(7)    01:31:52
+#94    (WTH) BatArme             4      6      0.67   0      2      Tank/Arty(3)     (WTH)Yarrick(1)           [PBSr] 1 Horst(2)         01:30:32
+#95    Drizzt 9                  4      6      0.67   0      2      Rifle_Mosin_M1891(3) [WTH] Eurynomous(1)       🆂 (WTH) JagdGG(2)         00:28:32
+#96    (WTH) fizkkk              4      8      0.5    2      1      Satchel_3KG(1)   (WTH) Infect(1)           Ograkk(1)                 00:15:51
+#97    SklepekCZ                 4      9      0.44   0      3      G43(4)           (WTH) Cap'n Ducky(1)      (WTHr)Jeans(2)            00:43:47
+#98    FLX || f4ts4s             4      29     0.14   0      2      Kar98(4)         (WTH) Infect(1)           (WTH) FERGIE(4)           01:31:42
+#99    (WTH) HouseGangster       3      7      0.43   0      2      Tank/Arty(3)     TekniikanIhmelapsi(1)     vendrup0105(2)            01:31:52
+#100   Kyhäri                    3      10     0.3    0      3      MG34(3)          (WTH) Cap'n Ducky(1)      (WTH) FERGIE(5)           02:11:52
+#101   simonsquiggs              2      0      0.0    0      2      Kar98(2)         🆁 (WTH) Chronic(1)        None(0)                   00:12:03
+#102   [WTH]Klobber              2      26     0.08   0      1      G43(2)           (WTH) Kenty(1)            (WTH) FERGIE(5)           02:58:26
+#103   Bishiboi007               1      3      0.33   0      1      Rifle_Mosin_M9130(1) [WTH]Dúne(1)              (WTH) Curious George(2)   00:11:42
+#104   [PBS] Odobenus            1      8      0.12   0      1      Tank/Arty(1)     (WTH) Anu Bys(1)          (WTH) MARIO(3)            01:30:44
+#105   austinrb210               0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:03
+#106   x3qzz                     0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:08
+#107   Cadilakor                 0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:08
+#108   (WTH) Duba                0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:31:36
+#109   Chimichengas56            0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:15
+#110   ( ͡° ͜ʖ ͡°) Sloth         0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:24
+#111   130103110114              0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:25
+#112   (WTH)KnownConnection      0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:31:52
+#113   Tactical Loli             0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:04:01
+#114   raffaele.reds             0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:33:05
+#115   crixus                    0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:07:23
+#116   NexoFX                    0      0      0.0    0      0      None(0)          None(0)                   None(0)                   01:35:28
+#117   TheDutch                  0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:04:34
+#118   Captain_Bazinga           0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:03:59
+#119   IRISH HOMER               0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:03:46
+#120   elQueFaltaba              0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:01:07
+#121   nanafive5                 0      0      0.0    0      0      None(0)          None(0)                   None(0)                   00:00:17
+#122   Stiglitz                  0      1      0.0    0      0      None(0)          None(0)                   (WTH) Cap'n Ducky(1)      00:05:52
+#123   Facepalm(FIN)             0      4      0.0    0      0      None(0)          None(0)                   (WTH) VikkoxX(1)          00:17:50
+#124   (WTH) kabour30            0      6      0.0    1      0      None(0)          (WTH) MARIO(1)            [PBSr] 1 Horst(3)         01:30:36
+#125   [PBSr] Jakob              0      11     0.0    0      0      None(0)          None(0)                   (WTH) MARIO(3)            01:31:15
