@@ -1,14 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Google.Apis;
-using Google.Apis.Services;
-using Google.Apis.Sheets.v4;
-using Google.Apis.Auth.OAuth2;
-using System.IO;
-
 
 namespace SweatyRosterGenerator
 {
@@ -39,20 +31,7 @@ namespace SweatyRosterGenerator
 
         COUNT,
     }
-    public class RoleProficiencyEntry
-    {
-        public RoleProficiencyEntry()
-        {
-            RolePoints = new List<int>((int)GameRole.COUNT);
-            for (int i = 0; i < (int)GameRole.COUNT; i++)
-            {
-                RolePoints.Add(0);
-            }
-        }
-
-        public List<int> RolePoints { get; set; }
-        public string PreferredRole { get; set; }
-    }
+    
     public class WTHPlayer : IComparable<WTHPlayer>
     {
         public string Name { get; set; }
@@ -85,17 +64,8 @@ namespace SweatyRosterGenerator
 
     public class MainClass
     {
-        static Dictionary<string, RoleProficiencyEntry> RoleProficiencies;
-        static List<WTHPlayer> Participants;
-        static List<WTHPlayer> SquadLeads;
-        static readonly string[] Scopes = { SheetsService.Scope.Spreadsheets };
-        static readonly string ApplicationName = "Sweaty Roster Generator";
-        static readonly string SpreadsheetId = "1E6JfTNaelYbNvb-YRSeZ23DTA_ZqOQ7YDEpdQAI5Km8";
-        static readonly string sheet = "Participants - Roles";
         
-        // static Dictionary<string, double> finalNslMap = new Dictionary<string, double>();
-        static SheetsService service;
-
+        static List<WTHPlayer> Participants;
         // REMOVE THIS
         static bool IsWTHPlayer(string line)
         {
@@ -109,11 +79,9 @@ namespace SweatyRosterGenerator
         static void Main(string[] args)
         {
             NSLGenerator nslGenerator = new NSLGenerator();
+            BattlePlannerInterface bpinterface = new BattlePlannerInterface();
 
             Participants = new List<WTHPlayer>();
-            RoleProficiencies = new Dictionary<string, RoleProficiencyEntry>();
-            ReadEntries();
-            // ReadScoreboards();
 
             int derp = 0;
             foreach (var item in nslGenerator.FinalNslMap)
@@ -131,7 +99,7 @@ namespace SweatyRosterGenerator
                 }
             }
 
-            CreateTeams();
+            CreateTeams(bpinterface);
             // TODO: make sure to even out squads to 5-6 members each
             // i.e no fewer than 4 squadmates (5 including squadlead)
 
@@ -146,71 +114,10 @@ namespace SweatyRosterGenerator
             Console.ReadLine();
         }
 
-        static int RoleProficiencyWidth = 18;
-        static void ReadEntries()
-        {
-            GoogleCredential credential;
-            using (var stream = new FileStream("sweatyroster.json", FileMode.Open, FileAccess.Read))
-            {
-                credential = GoogleCredential.FromStream(stream)
-                    .CreateScoped(Scopes);
-            }
-
-            // Create Google Sheets API service.
-            service = new SheetsService(new BaseClientService.Initializer()
-            {
-                HttpClientInitializer = credential,
-                ApplicationName = ApplicationName,
-            });
-
-            var range = $"{sheet}!C5:T477";
-            SpreadsheetsResource.ValuesResource.GetRequest request =
-                    service.Spreadsheets.Values.Get(SpreadsheetId, range);
-
-            var response = request.Execute();
-            IList<IList<object>> values = response.Values;
-            if (values != null && values.Count > 0)
-            {
-                foreach (var row in values)
-                {
-                    // Console.WriteLine("{0} | {1} | {2} | {3} | {4} | {5}", row[0], row[1], row[2], row[3], row[4], row[5]);
-                    RoleProficiencyEntry entry = new RoleProficiencyEntry();
-                    string output = string.Empty;
-
-                    for (int i = 1; i < RoleProficiencyWidth; i++)
-                    {
-                        output += $"{row[i]}";
-                        for (int b = 0; b < 4 - row[i].ToString().Length; b++)
-                        {
-                            output += " ";
-                        }
-                        output += "|";
-                    }
-                    output += " " + row[0];
-
-                    entry.PreferredRole = row[(int)GameRole.PREFERREDROLE + 1].ToString();
-                    for (int i = 0; i < (int)GameRole.COUNT - 1; i++)
-                    {
-                        string pointsString = row[i + 1].ToString();
-                        if (pointsString != "X")
-                        {
-                            entry.RolePoints[i] = pointsString.Length;
-                        }
-                    }
-
-                    RoleProficiencies[row[0].ToString()] = entry;
-                }
-            }
-            else
-            {
-                Console.WriteLine("No data found.");
-            }
-        }
-
-        private static void CreateTeams()
+        private static void CreateTeams(BattlePlannerInterface bpinterface)
         {
             HashSet<string> squadLeads = new HashSet<string>();
-            foreach (var item in RoleProficiencies.AsEnumerable())
+            foreach (var item in bpinterface.RoleProficiencies.AsEnumerable())
             {
                 if (item.Value.PreferredRole == "SQUAD LEADER")
                 {
@@ -284,7 +191,6 @@ namespace SweatyRosterGenerator
                 }
             }
 
-
             int currentSquad1 = 0;
             int currentSquad2 = 0;
             for (int participant = Participants.Count - 1; participant >= 0; participant--)
@@ -327,7 +233,6 @@ namespace SweatyRosterGenerator
 
             PrintTeam(team1);
             PrintTeam(team2);
-
         }
         private static void PrintTeam(Team team)
         {
@@ -342,92 +247,5 @@ namespace SweatyRosterGenerator
                 Console.WriteLine("\n");
             }
         }
-
-        //struct RankedPlayer
-        //{
-        //    public int rank;
-        //    public string name;
-        //    public int kills;
-        //    public int minutesPlayed;
-        //}
-
-        //static void ReadScoreboards()
-        //{
-        //    Dictionary<string, List<double>> nslMap = new Dictionary<string, List<double>>();
-        //    // Key: name, value: NSL, Normalise Skill Level
-        //    foreach (String file in Directory.GetFiles("C:\\Users\\Kristoffer\\source\\repos\\SweatyRosterGenerator\\data"))
-        //    {
-        //        List<RankedPlayer> players = new List<RankedPlayer>();
-        //        StreamReader reader = File.OpenText(file);
-
-        //        string header = reader.ReadLine(); // first line is just header, ignore
-
-        //        int rank = 0;
-        //        while (!reader.EndOfStream)
-        //        {
-        //            string line = reader.ReadLine();
-        //            // First, make sure this aint some tank or arty wanker
-        //            if (PlayedTankOrArty(line)) continue;
-        //            if (!IsWTHPlayer(line)) continue;
-
-        //            int killStartIndex = 0;
-        //            string name = GetName(line, out killStartIndex);
-        //            int kills = GetKills(line, killStartIndex);
-        //            int minutesPlayed = GetMinutesPlayed(line);
-
-        //            // latecomers can get tae fuck
-        //            if (minutesPlayed >= 30)
-        //            {
-        //                players.Add(new RankedPlayer { rank = ++rank, name = name, kills = kills, minutesPlayed = minutesPlayed }); 
-        //            }
-        //        }
-        //        foreach (RankedPlayer player in players)
-        //        {
-        //            double nsl = GenerateNSL(player, players.Count);
-        //            if (!nslMap.ContainsKey(player.name))
-        //            {
-        //                List<double> nsls = new List<double>();
-        //                nsls.Add(nsl);
-        //                nslMap.Add(player.name, nsls); 
-        //            }
-        //            else
-        //            {
-        //                nslMap[player.name].Add(nsl);
-        //            }
-        //        }
-        //    }
-
-        //    foreach (var nsl in nslMap)
-        //    {
-        //        double avgNsl = 0.0;
-        //        nsl.Value.ForEach(x => avgNsl += x);
-        //        avgNsl /= nsl.Value.Count;
-        //        finalNslMap.Add(nsl.Key, avgNsl);
-        //    }
-
-        //    int derp = 0;
-        //    foreach (var item in finalNslMap)
-        //    {
-        //        WTHPlayer player = new WTHPlayer { Name = item.Key, Nsl = item.Value, Role = GameRole.infantryMan };
-
-        //        if (IsWTHPlayer(player.Name))
-        //        {
-        //            derp++;
-        //            Participants.Add(player); 
-        //        }
-        //        if (derp >= 80)
-        //        {
-        //            break;
-        //        }
-        //    }
-
-        //    var orderedList = finalNslMap.ToList().OrderBy(x => x.Value).Reverse();
-        //    foreach (var item in orderedList)
-        //    {
-        //        Console.WriteLine("{1} :\t {0}", item.Key, item.Value);
-        //    }
-        //}
-
-        
     }
 }

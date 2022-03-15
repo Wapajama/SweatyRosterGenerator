@@ -65,6 +65,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BattlePlannerInterface.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="NSLGenerator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
