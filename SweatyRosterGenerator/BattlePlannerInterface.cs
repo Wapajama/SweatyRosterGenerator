@@ -71,18 +71,6 @@ namespace SweatyRosterGenerator
                 foreach (var row in values)
                 {
                     RoleProficiencyEntry entry = new RoleProficiencyEntry();
-                    string output = string.Empty;
-
-                    for (int i = 1; i < RoleProficiencyWidth; i++)
-                    {
-                        output += $"{row[i]}";
-                        for (int b = 0; b < 4 - row[i].ToString().Length; b++)
-                        {
-                            output += " ";
-                        }
-                        output += "|";
-                    }
-                    output += " " + row[0];
 
                     entry.PreferredRole = row[(int)GameRole.PREFERREDROLE + 1].ToString();
                     for (int i = 0; i < (int)GameRole.COUNT - 1; i++)
@@ -94,7 +82,7 @@ namespace SweatyRosterGenerator
                         }
                     }
 
-                    RoleProficiencies[row[0].ToString()] = entry;
+                    RoleProficiencies[WTHName.GetNameWithoutWTH( row[0].ToString())] = entry;
                 }
             }
             else

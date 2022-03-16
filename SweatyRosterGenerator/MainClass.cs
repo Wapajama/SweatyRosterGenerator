@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 
 namespace SweatyRosterGenerator
 {
@@ -83,22 +84,7 @@ namespace SweatyRosterGenerator
 
             Participants = new List<WTHPlayer>();
 
-            int derp = 0;
-            foreach (var item in nslGenerator.FinalNslMap)
-            {
-                WTHPlayer player = new WTHPlayer { Name = item.Key, Nsl = item.Value, Role = GameRole.infantryMan };
-
-                if (IsWTHPlayer(player.Name))
-                {
-                    derp++;
-                    Participants.Add(player);
-                }
-                if (derp >= 80)
-                {
-                    break;
-                }
-            }
-
+            LoadParticipants(nslGenerator);
             CreateTeams(bpinterface);
             // TODO: make sure to even out squads to 5-6 members each
             // i.e no fewer than 4 squadmates (5 including squadlead)
@@ -114,14 +100,55 @@ namespace SweatyRosterGenerator
             Console.ReadLine();
         }
 
+        static string ParticipantsPath = "C:\\Users\\Kristoffer\\source\\repos\\SweatyRosterGenerator\\data\\participants.txt";
+        private static void LoadParticipants(NSLGenerator nslGenerator)
+        {
+            StreamReader reader = File.OpenText(ParticipantsPath);
+            List<string> names = new List<string>();
+            while (!reader.EndOfStream)
+            {
+                names.Add(WTHName.GetNameWithoutWTH( reader.ReadLine().ToLower()));
+            }
+
+            foreach (string name in names)
+            {
+                //if (nslGenerator.FinalNslMap.ContainsKey(name))
+                double nsl = 0.0;
+                if (nslGenerator.GetPlayerByName(name, out nsl)) 
+                {
+                    WTHPlayer player = new WTHPlayer { Name = name, Nsl = nsl, Role = GameRole.infantryMan };
+                    Participants.Add(player);
+                }
+                else
+                {
+                    Console.WriteLine($"{name} could not be found in the participant list.");
+                }
+            }
+
+            //foreach (var item in nslGenerator.FinalNslMap)
+            //{
+            //    WTHPlayer player = new WTHPlayer { Name = item.Key, Nsl = item.Value, Role = GameRole.infantryMan };
+            //    if (IsWTHPlayer(player.Name))
+            //    {
+            //        derp++;
+            //        Participants.Add(player);
+            //    }
+            //    if (derp >= 80)
+            //    {
+            //        break;
+            //    }
+            //}
+        }
+
         private static void CreateTeams(BattlePlannerInterface bpinterface)
         {
             HashSet<string> squadLeads = new HashSet<string>();
+
             foreach (var item in bpinterface.RoleProficiencies.AsEnumerable())
             {
                 if (item.Value.PreferredRole == "SQUAD LEADER")
                 {
-                    squadLeads.Add(item.Key);
+                    squadLeads.Add(item.Key.ToLower());
                 }
             }
 
@@ -141,54 +168,48 @@ namespace SweatyRosterGenerator
             team1.Squads = new List<Squad>(n_squads1);
             team2.Squads = new List<Squad>(n_squads2);
 
-            Stack<string> availableSQLs = new Stack<string>();
+            List<WTHPlayer> availableSQLsTemp = new List<WTHPlayer>();
 
             for (int participant = Participants.Count - 1; participant >= 0; participant--)
             {
                 if (squadLeads.Contains(Participants[participant].Name))
                 {
-                    availableSQLs.Push(Participants[participant].Name);
+                    availableSQLsTemp.Add(Participants[participant]);
                     Participants.RemoveAt(participant);
                 }
             }
+
+            int playersPerSquads1 = n_players_per_team1 / n_squads1;
+            int playersPerSquads2 = n_players_per_team2 / n_squads2;
+
+            int mod1 = n_players_per_team1 % playersPerSquads1;
+            int mod2 = n_players_per_team2 % playersPerSquads2;
+
+            availableSQLsTemp.Sort();
+            availableSQLsTemp.Reverse();
+            Stack<WTHPlayer> availableSQLs = new Stack<WTHPlayer>();
+
+            availableSQLsTemp.ForEach(x => availableSQLs.Push(x));
 
             int originalSizeSqls = availableSQLs.Count;
             for (int i = 0; i < n_squads1; i++)
             {
                 team1.Squads.Add(new Squad());
-                if (availableSQLs.Count > originalSizeSqls / 2)
-                {
-                    WTHPlayer sql = null;
-                    string sqlName = availableSQLs.Pop();
-                    foreach (var item in Participants)
-                    {
-                        if (item.Name == sqlName)
-                        {
-                            sql = item;
-                            break;
-                        }
-                    }
-                    team1.Squads[team1.Squads.Count - 1].SquadLead = sql;
-                }
+                //if (availableSQLs.Count > originalSizeSqls / 2)
+                //{
+                //    WTHPlayer sql = availableSQLs.Pop();
+                //    team1.Squads[team1.Squads.Count - 1].SquadLead = sql;
+                //}
             }
 
             for (int i = 0; i < n_squads2; i++)
             {
                 team2.Squads.Add(new Squad());
-                if (availableSQLs.Count > 0)
-                {
-                    WTHPlayer sql = null;
-                    string sqlName = availableSQLs.Pop();
-                    foreach (var item in Participants)
-                    {
-                        if (item.Name == sqlName)
-                        {
-                            sql = item;
-                            break;
-                        }
-                    }
-                    team2.Squads[team2.Squads.Count - 1].SquadLead = sql;
-                }
+                //if (availableSQLs.Count > 0)
+                //{
+                //    WTHPlayer sql = availableSQLs.Pop();
+                //    team2.Squads[team2.Squads.Count - 1].SquadLead = sql;
+                //}
             }
 
             int currentSquad1 = 0;
@@ -199,6 +220,10 @@ namespace SweatyRosterGenerator
 
                 if (even)
                 {
+                    if (availableSQLs.Count > 0 && team1.Squads[currentSquad1].SquadLead == null)
+                    {
+                        team1.Squads[currentSquad1].SquadLead = availableSQLs.Pop();
+                    }
                     if (team1.Squads[currentSquad1].SquadLead != null)
                     {
                         team1.Squads[currentSquad1].SquadMembers.Add(Participants[participant]);
@@ -208,13 +233,28 @@ namespace SweatyRosterGenerator
                         team1.Squads[currentSquad1].SquadLead = Participants[participant];
                     }
                     Participants.RemoveAt(participant);
-                    if (team1.Squads[currentSquad1].SquadMembers.Count >= Squad.MaxSquadMembers)
+                    if (mod1-- > 0)
                     {
-                        currentSquad1++;
+                        if (team1.Squads[currentSquad1].SquadMembers.Count >= Squad.MaxSquadMembers)
+                        {
+                            currentSquad1++;
+                        }
                     }
+                    else
+                    {
+                        if (team1.Squads[currentSquad1].SquadMembers.Count >= playersPerSquads1)
+                        {
+                            currentSquad1++;
+                        }
+                    }
+                    
                 }
                 else
                 {
+                    if (availableSQLs.Count > 0 && team2.Squads[currentSquad2].SquadLead == null)
+                    {
+                        team2.Squads[currentSquad2].SquadLead = availableSQLs.Pop();
+                    }
                     if (team2.Squads[currentSquad2].SquadLead != null)
                     {
                         team2.Squads[currentSquad2].SquadMembers.Add(Participants[participant]);
@@ -224,9 +264,19 @@ namespace SweatyRosterGenerator
                         team2.Squads[currentSquad2].SquadLead = Participants[participant];
                     }
                     Participants.RemoveAt(participant);
-                    if (team2.Squads[currentSquad2].SquadMembers.Count >= Squad.MaxSquadMembers)
+                    if (mod2-- > 0)
                     {
-                        currentSquad2++;
+                        if (team2.Squads[currentSquad2].SquadMembers.Count >= Squad.MaxSquadMembers)
+                        {
+                            currentSquad2++;
+                        }
+                    }
+                    else
+                    {
+                        if (team2.Squads[currentSquad2].SquadMembers.Count >= playersPerSquads2)
+                        {
+                            currentSquad2++;
+                        }
                     }
                 }
             }
@@ -239,7 +289,10 @@ namespace SweatyRosterGenerator
             for (int i = 0; i < team.Squads.Count; i++)
             {
                 Console.WriteLine($"Squad {i+1}");
-                Console.WriteLine($"SquadLead: {team.Squads[i].SquadLead.Name} ({team.Squads[i].SquadLead.Nsl})");
+                if (team.Squads[i].SquadLead != null)
+                {
+                    Console.WriteLine($"SquadLead: {team.Squads[i].SquadLead.Name} ({team.Squads[i].SquadLead.Nsl})"); 
+                }
                 for (int n = 0; n < team.Squads[i].SquadMembers.Count; n++)
                 {
                     Console.WriteLine($"{team.Squads[i].SquadMembers[n].Nsl} | {team.Squads[i].SquadMembers[n].Name}");

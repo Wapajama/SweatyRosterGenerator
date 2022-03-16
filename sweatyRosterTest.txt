@@ -1,0 +1,105 @@
+madengineer could not be found in the participant list.
+supp could not be found in the participant list.
+celestial could not be found in the participant list.
+
+Squad 1
+SquadLead: frazzle (24,6734460900713)
+53,0992423362509 | reformedgame
+38,6516446154154 | dp
+38,0258372652112 | jockey"joky..
+34,5960154342276 | tørfisk
+29,4581883730412 | wazzu72
+
+
+Squad 2
+SquadLead: woute (22,9857946931118)
+27,6266045661362 | fergie
+26,9959308983699 | froontan
+25,6445286374118 | flash_aut
+23,7362637362637 | heidi
+22,1910472225211 | rakuen
+
+
+Squad 3
+SquadLead: jagdgg (16,9067840089855)
+21,761906386564 | chronic
+21,7196130415917 | mevans4597
+20,9014810844079 | reinout
+20,1645606817514 | saukti9
+16 | flashblack
+
+
+Squad 4
+SquadLead: albertalting (10,6338247118735)
+15,4601226993865 | magicjokic
+13,8515711673322 | zippo
+13,724991928105 | afk
+11,2087912087912 | splint3r
+9,58608058608059 | caro
+
+
+Squad 5
+SquadLead: michaeten (8,02325581395349)
+8,44548281968854 | drybrush
+7,72759430391255 | hansguhr
+6,42394624117378 | teekhage
+5,1219512195122 | smeden
+4,63369963369963 | captainbenfi
+
+
+Squad 6
+SquadLead: batarme (3,35104529616725)
+1,00228486016425 | liefen
+0 | kimdamz
+
+
+Squad 1
+SquadLead: gates (31,3142085859146)
+57,5801681311885 | sgt.rico
+46,9020680823441 | duba????
+38,4901122523708 | satchel
+35,1520146520147 | bubblebeard
+30,7533577533578 | vikkoxx
+
+
+Squad 2
+SquadLead: dune (24,4485899338444)
+28,9663253413253 | meattitan
+27,0802953716323 | abusify
+26,9279435972801 | xcessive
+24,457479222323 | wildbill
+23,1518848383255 | doodlebugs
+
+
+Squad 3
+SquadLead: imolol (17,2253543306352)
+22,0832514815129 | pizzawithaw
+21,7313953954874 | godfella
+21,039935674082 | bohemiancy
+20,3084439063033 | wapajama
+19,1534391534392 | odaal
+
+
+Squad 4
+SquadLead: pumpkin (13,6138679792359)
+15,5709529433908 | attila
+13,9262482943885 | jimbo
+13,7344145497002 | stewie
+11,3333333333333 | whisky
+10,4218824653607 | virion
+
+
+Squad 5
+SquadLead: nev (8,42913415698226)
+9,41168587510051 | sgt.stag
+8,14232588778455 | toni
+7,42160278745645 | bzawack
+5,29166666666667 | masterlyapo
+4,70957613814757 | ducksnuts
+
+
+Squad 6
+SquadLead: kenty (7,76034435099188)
+4,18102803120225 | hakubus
+1,07142857142857 | fo_shizz
+0,731707317073171 | elconveyor

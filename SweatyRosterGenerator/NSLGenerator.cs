@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
 namespace SweatyRosterGenerator
@@ -167,7 +165,7 @@ namespace SweatyRosterGenerator
         {
             Dictionary<string, List<double>> nslMap = new Dictionary<string, List<double>>();
             // Key: name, value: NSL, Normalise Skill Level
-            foreach (String file in Directory.GetFiles("C:\\Users\\Kristoffer\\source\\repos\\SweatyRosterGenerator\\data"))
+            foreach (String file in Directory.GetFiles("C:\\Users\\Kristoffer\\source\\repos\\SweatyRosterGenerator\\data\\Scoreboards"))
             {
                 List<RankedPlayer> players = new List<RankedPlayer>();
                 StreamReader reader = File.OpenText(file);
@@ -183,7 +181,7 @@ namespace SweatyRosterGenerator
                     if (!IsWTHPlayer(line)) continue;
 
                     int killStartIndex = 0;
-                    string name = GetName(line, out killStartIndex);
+                    string name = WTHName.GetNameWithoutWTH(GetName(line, out killStartIndex)).ToLower();
                     int kills = GetKills(line, killStartIndex);
                     int minutesPlayed = GetMinutesPlayed(line);
 
@@ -214,14 +212,14 @@ namespace SweatyRosterGenerator
                 double avgNsl = 0.0;
                 nsl.Value.ForEach(x => avgNsl += x);
                 avgNsl /= nsl.Value.Count;
-                FinalNslMap.Add(nsl.Key, avgNsl);
+                FinalNslMap.Add(nsl.Key.ToLower(), avgNsl);
             }
 
-            var orderedList = FinalNslMap.ToList().OrderBy(x => x.Value).Reverse();
-            foreach (var item in orderedList)
-            {
-                Console.WriteLine("{1} :\t {0}", item.Key, item.Value);
-            }
+            //var orderedList = FinalNslMap.ToList().OrderBy(x => x.Value).Reverse();
+            //foreach (var item in orderedList)
+            //{
+            //    //Console.WriteLine("{1} :\t {0}", item.Key, item.Value);
+            //}
         }
 
         private static void PrintTeam(Team team)
@@ -237,6 +235,83 @@ namespace SweatyRosterGenerator
                 Console.WriteLine("\n");
             }
         }
+
+        public bool GetPlayerByName(string name, out double nsl)
+        {
+            if (FinalNslMap.TryGetValue(name, out nsl))
+            {
+                return true;
+            }
+
+            // Could not find the name in the nsl map, find name with single closest match
+            int highestMatch = 0;
+            int equalMatches = 0; // if two or more names have the same number of matches, discard, as it can be more than one
+            string highestMatchingNslName = string.Empty;
+
+            foreach (string nslName in FinalNslMap.Keys)
+            {
+                int currentMatches = 0;
+                string tempName = WTHName.GetNameWithoutWTH(name);
+                string tempNslName = WTHName.GetNameWithoutWTH(nslName);
+
+                int indexOfLastMatch = -1;
+                if (tempName.Length == tempNslName.Length)
+                {
+                    for (int i = 0; i < tempNslName.Length; i++)
+                    {
+                        if (tempName[i] == tempNslName[i])
+                        {
+                            currentMatches++;
+                        }
+                    }
+                    currentMatches += 2;// extra points as it's the same length
+                }
+                else
+                {
+                    foreach (char c in tempNslName)
+                    {
+                        int currentMatchIndex = -1;
+                        //currentMatch = tempName.IndexOf(c);
+
+                        for (int i = indexOfLastMatch + 1; i < tempName.Length; i++)
+                        {
+                            if (tempName[i] == c)
+                            {
+                                currentMatchIndex = i;
+                                break;
+                            }
+                        }
+
+                        if (currentMatchIndex != -1 && currentMatchIndex > indexOfLastMatch)
+                        {
+                            ++currentMatches;
+                            indexOfLastMatch = currentMatchIndex;
+                        }
+                    }  
+                }
+
+                if (currentMatches > highestMatch)
+                {
+                    highestMatch = currentMatches;
+                    equalMatches = 1;
+                    highestMatchingNslName = nslName;
+                }
+                else if (currentMatches == highestMatch)
+                {
+                    ++equalMatches;
+                }
+            }
+
+            if (equalMatches == 1)
+            {
+                nsl = FinalNslMap[highestMatchingNslName];
+                return true;
+            }
+
+            nsl = 0;
+            return false;
+        }
+
 
     }
 }
